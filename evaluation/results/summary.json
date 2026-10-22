@@ -1,0 +1,50 @@
+{
+ "2020 cons": {
+  "listed": 204,
+  "per_product": 4.0,
+  "right": 0.647,
+  "right_per_product": 2.59,
+  "wrong_polarity": 0.093,
+  "no_opinion": 0.26
+ },
+ "2020 pros": {
+  "listed": 204,
+  "per_product": 4.0,
+  "right": 0.971,
+  "right_per_product": 3.88,
+  "wrong_polarity": 0.005,
+  "no_opinion": 0.025
+ },
+ "clause cons": {
+  "listed": 204,
+  "per_product": 4.0,
+  "right": 0.897,
+  "right_per_product": 3.59,
+  "wrong_polarity": 0.025,
+  "no_opinion": 0.078
+ },
+ "clause pros": {
+  "listed": 204,
+  "per_product": 4.0,
+  "right": 0.995,
+  "right_per_product": 3.98,
+  "wrong_polarity": 0.0,
+  "no_opinion": 0.005
+ },
+ "clause, 2+ reviews cons": {
+  "listed": 104,
+  "per_product": 2.04,
+  "right": 0.894,
+  "right_per_product": 1.82,
+  "wrong_polarity": 0.048,
+  "no_opinion": 0.058
+ },
+ "clause, 2+ reviews pros": {
+  "listed": 188,
+  "per_product": 3.69,
+  "right": 0.995,
+  "right_per_product": 3.67,
+  "wrong_polarity": 0.0,
+  "no_opinion": 0.005
+ }
+}

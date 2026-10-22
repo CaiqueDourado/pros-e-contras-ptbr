@@ -1,0 +1,312 @@
+{
+ "reviews": 15100,
+ "clauses_2020": 55332,
+ "clauses_rules": 55551,
+ "precision": 0.9489,
+ "recall": 0.9526,
+ "reviews_cut_identically": 0.8811,
+ "examples_of_disagreement": [
+  {
+   "review_id": 2435964,
+   "only_2020": [
+    "a tiara",
+    "e um fone relativamente barato",
+    "nao escutaria em outros fones",
+    "o cabo e bem extenso o",
+    "pode ser estranho no inicio",
+    "porem",
+    "vc percebe certos graves",
+    "visto"
+   ],
+   "only_rules": [
+    "3",
+    "a",
+    "o cabo e bem extenso o q pode ser estranho no inicio",
+    "tiara",
+    "vc percebe certos graves q nao escutaria em outros fones",
+    "visto q e um fone relativamente barato"
+   ]
+  },
+  {
+   "review_id": 2436012,
+   "only_2020": [
+    "seu celular esteja no bolso"
+   ],
+   "only_rules": [
+    "caso seu celular esteja no bolso"
+   ]
+  },
+  {
+   "review_id": 2437636,
+   "only_2020": [
+    "um dos botoes estava afundado"
+   ],
+   "only_rules": [
+    "afundado",
+    "um dos botoes estava"
+   ]
+  },
+  {
+   "review_id": 2437638,
+   "only_2020": [
+    "acho",
+    "vou comprar mais uns dois por esses dias"
+   ],
+   "only_rules": [
+    "acho q vou comprar mais uns dois por esses dias"
+   ]
+  },
+  {
+   "review_id": 2437646,
+   "only_2020": [
+    "um desenho de um fone de ouvido entretanto nao tem suporte pra fone de ouvido"
+   ],
+   "only_rules": [
+    "nao tem suporte pra fone de ouvido",
+    "um desenho de um fone de ouvido"
+   ]
+  },
+  {
+   "review_id": 2437650,
+   "only_2020": [
+    "a entrada do produto e de 5 volts"
+   ],
+   "only_rules": [
+    "porque a entrada do produto e de 5 volts"
+   ]
+  },
+  {
+   "review_id": 2438126,
+   "only_2020": [
+    "porem nada que impossibilite o uso do aparelho"
+   ],
+   "only_rules": [
+    "nada que impossibilite o uso do aparelho"
+   ]
+  },
+  {
+   "review_id": 2440121,
+   "only_2020": [
+    "como no titulo nao estava escrito qual era o material do recipiente comprei achando",
+    "era vidro"
+   ],
+   "only_rules": [
+    "como no titulo nao estava escrito qual era o material do recipiente comprei achando q era vidro"
+   ]
+  },
+  {
+   "review_id": 2440310,
+   "only_2020": [],
+   "only_rules": [
+    "3"
+   ]
+  },
+  {
+   "review_id": 2448519,
+   "only_2020": [
+    "8 gb de ram"
+   ],
+   "only_rules": [
+    "8gb de ram"
+   ]
+  },
+  {
+   "review_id": 2448520,
+   "only_2020": [
+    "porem eu indico"
+   ],
+   "only_rules": [
+    "eu indico"
+   ]
+  },
+  {
+   "review_id": 2448532,
+   "only_2020": [
+    "como estava pesquisando antes de comprar e ja havia percebido que muitos nao prestavam atencao a respeito do sistema operacional linux"
+   ],
+   "only_rules": [
+    "como estava pesquisando antes de comprar",
+    "ja havia percebido que muitos nao prestavam atencao a respeito do sistema operacional linux"
+   ]
+  },
+  {
+   "review_id": 2448534,
+   "only_2020": [
+    "tenha vindo com defeito",
+    "vou devolver a cpu"
+   ],
+   "only_rules": [
+    "vou devolver a cpu caso tenha vindo com defeito"
+   ]
+  },
+  {
+   "review_id": 2452665,
+   "only_2020": [
+    "porem descobri que ha um adaptador de rede usb lan"
+   ],
+   "only_rules": [
+    "descobri que ha um adaptador de rede usb lan"
+   ]
+  },
+  {
+   "review_id": 2452941,
+   "only_2020": [
+    "porem trava muito"
+   ],
+   "only_rules": [
+    "trava muito"
+   ]
+  },
+  {
+   "review_id": 2452950,
+   "only_2020": [
+    "porem tive o desprazer de vim com auto falante esquerdo com defeito"
+   ],
+   "only_rules": [
+    "tive o desprazer de vim com auto falante esquerdo com defeito"
+   ]
+  },
+  {
+   "review_id": 2452955,
+   "only_2020": [
+    "porem"
+   ],
+   "only_rules": []
+  },
+  {
+   "review_id": 2452962,
+   "only_2020": [
+    "entrega antes",
+    "previsto",
+    "qualidade da loja com"
+   ],
+   "only_rules": [
+    "com",
+    "entrega antes do previsto",
+    "qualidade da loja"
+   ]
+  },
+  {
+   "review_id": 2452967,
+   "only_2020": [
+    "a entrega tambem foi bem rapida parabens e eu recomendo"
+   ],
+   "only_rules": [
+    "a entrega tambem foi bem rapida parabens",
+    "eu recomendo"
+   ]
+  },
+  {
+   "review_id": 2452968,
+   "only_2020": [
+    "nao e muito grande bom para transportar",
+    "pequeno demais"
+   ],
+   "only_rules": [
+    "nao e muito grande bom para transportar nem pequeno demais"
+   ]
+  },
+  {
+   "review_id": 2452970,
+   "only_2020": [
+    "previsto",
+    "produto muito bom preco beneficio anericanas esta de parabens chegou antes"
+   ],
+   "only_rules": [
+    "produto muito bom preco beneficio anericanas esta de parabens chegou antes do previsto"
+   ]
+  },
+  {
+   "review_id": 2452977,
+   "only_2020": [
+    "esta com mais urgencia",
+    "sem contar que a previsao no site era 03 05"
+   ],
+   "only_rules": [
+    "porque esta com mais",
+    "sem contar que a previsao no site era",
+    "urgencia"
+   ]
+  },
+  {
+   "review_id": 2452988,
+   "only_2020": [
+    "pelas especificacoes do produto achei que seria melhor porem e lento para fazer coisas basicas"
+   ],
+   "only_rules": [
+    "e lento para fazer coisas basicas",
+    "pelas especificacoes do produto achei que seria melhor"
+   ]
+  },
+  {
+   "review_id": 2452989,
+   "only_2020": [
+    "pequeno",
+    "seu tamanho e perfeito nao e grande"
+   ],
+   "only_rules": [
+    "seu tamanho e perfeito nao e grande nem pequeno"
+   ]
+  },
+  {
+   "review_id": 2453010,
+   "only_2020": [
+    "entrega rapida antes",
+    "previsto"
+   ],
+   "only_rules": [
+    "entrega rapida antes do previsto"
+   ]
+  },
+  {
+   "review_id": 2453022,
+   "only_2020": [
+    "dessa vez me frustrei com o atraso 6 dias hoje de atraso"
+   ],
+   "only_rules": [
+    "6 dias hoje de atraso",
+    "dessa vez me frustrei com o atraso"
+   ]
+  },
+  {
+   "review_id": 2453026,
+   "only_2020": [
+    "porem a bateria poderia ter mais duracao"
+   ],
+   "only_rules": [
+    "a bateria poderia ter mais duracao"
+   ]
+  },
+  {
+   "review_id": 2453041,
+   "only_2020": [
+    "e um produto",
+    "responde as espectativas de um notebook de entrada"
+   ],
+   "only_rules": [
+    "e um produto q responde as espectativas de um notebook de entrada"
+   ]
+  },
+  {
+   "review_id": 2453042,
+   "only_2020": [
+    "porem se eu pudesse teria adquirido um com uma placa de video melhor"
+   ],
+   "only_rules": [
+    "se eu pudesse teria adquirido um com uma placa de video melhor"
+   ]
+  },
+  {
+   "review_id": 2453054,
+   "only_2020": [
+    "e wireless alguem pode me responder",
+    "porem preciso saber se ele tem wi fi"
+   ],
+   "only_rules": [
+    "alguem pode me responder",
+    "e wireless",
+    "preciso saber se ele tem wi fi"
+   ]
+  }
+ ]
+}

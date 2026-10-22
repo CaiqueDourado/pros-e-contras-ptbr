@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pros-e-contras-ptbr"
+version = "0.1.0"
+description = "Top pros and cons of a product from its reviews in Brazilian Portuguese: clause splitting, clause-level polarity with negation, negation-safe grouping, and the 2020 method as a baseline."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Caique Dourado" }]
+keywords = ["nlp", "portuguese", "reviews", "opinion-mining", "sentiment-analysis", "aspect", "pros-and-cons"]
+dependencies = ["dedupkit-br @ git+https://github.com/CaiqueDourado/DedupKit@v0.2.0#subdirectory=python"]
+
+[project.optional-dependencies]
+spacy = ["spacy>=3.7"]
+dev = ["pytest", "pandas"]
+
+[project.scripts]
+pros-e-contras = "pros_e_contras.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/CaiqueDourado/pros-e-contras-ptbr"
+Dataset = "https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+pros_e_contras = ["data/*.tsv"]

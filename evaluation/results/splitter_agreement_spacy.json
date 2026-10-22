@@ -1,0 +1,315 @@
+{
+ "reviews": 15100,
+ "clauses_2020": 55332,
+ "clauses_rules": 54750,
+ "precision": 0.9491,
+ "recall": 0.9391,
+ "reviews_cut_identically": 0.8632,
+ "examples_of_disagreement": [
+  {
+   "review_id": 2433964,
+   "only_2020": [
+    "so da pra ver mesmo na total escuridao",
+    "videos que vi no youtube"
+   ],
+   "only_rules": [
+    "videos que vi no youtube so da pra ver mesmo na total escuridao"
+   ]
+  },
+  {
+   "review_id": 2435964,
+   "only_2020": [
+    "a tiara",
+    "e confortavel",
+    "e um fone relativamente barato",
+    "nao escutaria em outros fones",
+    "o cabo e bem extenso o",
+    "pode ser estranho no inicio",
+    "vc percebe certos graves",
+    "visto"
+   ],
+   "only_rules": [
+    "3",
+    "a tiara e confortavel",
+    "o cabo e bem extenso o q pode ser estranho no inicio",
+    "vc percebe certos graves q nao escutaria em outros fones",
+    "visto q e um fone relativamente barato"
+   ]
+  },
+  {
+   "review_id": 2436012,
+   "only_2020": [
+    "depois que se escolhe corretamente o encaixe no ouvido",
+    "seu celular esteja no bolso",
+    "vem varios"
+   ],
+   "only_rules": [
+    "caso seu celular esteja no bolso",
+    "depois que se escolhe corretamente o encaixe no ouvido pois vem varios"
+   ]
+  },
+  {
+   "review_id": 2436029,
+   "only_2020": [
+    "o seu quebrou ate serve",
+    "se precisa de um fone para musica"
+   ],
+   "only_rules": [
+    "se precisa de um fone para musica pois o seu quebrou ate serve"
+   ]
+  },
+  {
+   "review_id": 2436030,
+   "only_2020": [
+    "chegou bem rapido em 5 dias",
+    "serviu direitinho"
+   ],
+   "only_rules": [
+    "serviu direitinho chegou bem rapido em 5 dias"
+   ]
+  },
+  {
+   "review_id": 2437638,
+   "only_2020": [
+    "acho",
+    "vou comprar mais uns dois por esses dias"
+   ],
+   "only_rules": [
+    "acho q vou comprar mais uns dois por esses dias"
+   ]
+  },
+  {
+   "review_id": 2437646,
+   "only_2020": [
+    "um desenho de um fone de ouvido entretanto nao tem suporte pra fone de ouvido"
+   ],
+   "only_rules": [
+    "nao tem suporte pra fone de ouvido",
+    "um desenho de um fone de ouvido"
+   ]
+  },
+  {
+   "review_id": 2437647,
+   "only_2020": [
+    "produto bom",
+    "recomendo"
+   ],
+   "only_rules": [
+    "produto bom recomendo"
+   ]
+  },
+  {
+   "review_id": 2437650,
+   "only_2020": [
+    "a entrada do produto e de 5 volts"
+   ],
+   "only_rules": [
+    "porque a entrada do produto e de 5 volts"
+   ]
+  },
+  {
+   "review_id": 2438051,
+   "only_2020": [
+    "nao recebi as 5 latas que comprei"
+   ],
+   "only_rules": [
+    "pois nao recebi as 5 latas que comprei"
+   ]
+  },
+  {
+   "review_id": 2438125,
+   "only_2020": [
+    "bom custo beneficio"
+   ],
+   "only_rules": [
+    "beneficio",
+    "bom custo"
+   ]
+  },
+  {
+   "review_id": 2438126,
+   "only_2020": [
+    "porem nada que impossibilite o uso do aparelho"
+   ],
+   "only_rules": [
+    "nada que impossibilite o uso do aparelho"
+   ]
+  },
+  {
+   "review_id": 2440121,
+   "only_2020": [
+    "como no titulo nao estava escrito qual era o material do recipiente comprei achando",
+    "era vidro"
+   ],
+   "only_rules": [
+    "como no titulo nao estava escrito qual era o material do recipiente comprei achando q era vidro"
+   ]
+  },
+  {
+   "review_id": 2440163,
+   "only_2020": [
+    "e fantastico como ele retira o gosto do cloro"
+   ],
+   "only_rules": [
+    "pois e fantastico como ele retira o gosto do cloro"
+   ]
+  },
+  {
+   "review_id": 2440310,
+   "only_2020": [
+    "ficou bonitinho na geladeira"
+   ],
+   "only_rules": [
+    "ficou bonitinho na geladeira 3"
+   ]
+  },
+  {
+   "review_id": 2448519,
+   "only_2020": [
+    "instalei"
+   ],
+   "only_rules": [
+    "pois instalei"
+   ]
+  },
+  {
+   "review_id": 2448521,
+   "only_2020": [
+    "me arrependo demais da compra",
+    "nem em tvs",
+    "o leitor de dvd alem de estar com defeito era usado"
+   ],
+   "only_rules": [
+    "nem em tvs me arrependo demais da compra",
+    "pois o leitor de dvd alem de estar com defeito era usado"
+   ]
+  },
+  {
+   "review_id": 2448522,
+   "only_2020": [
+    "veio com muitos defeitos"
+   ],
+   "only_rules": [
+    "pois veio com muitos defeitos"
+   ]
+  },
+  {
+   "review_id": 2448532,
+   "only_2020": [
+    "como estava pesquisando antes de comprar e ja havia percebido que muitos nao prestavam atencao a respeito do sistema operacional linux"
+   ],
+   "only_rules": [
+    "como estava pesquisando antes de comprar",
+    "ja havia percebido que muitos nao prestavam atencao a respeito do sistema operacional linux"
+   ]
+  },
+  {
+   "review_id": 2448534,
+   "only_2020": [
+    "tenha vindo com defeito",
+    "vou devolver a cpu"
+   ],
+   "only_rules": [
+    "vou devolver a cpu caso tenha vindo com defeito"
+   ]
+  },
+  {
+   "review_id": 2452665,
+   "only_2020": [
+    "porem descobri que ha um adaptador de rede usb lan"
+   ],
+   "only_rules": [
+    "descobri que ha um adaptador de rede usb lan"
+   ]
+  },
+  {
+   "review_id": 2452670,
+   "only_2020": [
+    "desligando",
+    "ha 3 dias"
+   ],
+   "only_rules": [
+    "desligando ha 3 dias"
+   ]
+  },
+  {
+   "review_id": 2452941,
+   "only_2020": [
+    "porem trava muito"
+   ],
+   "only_rules": [
+    "trava muito"
+   ]
+  },
+  {
+   "review_id": 2452948,
+   "only_2020": [
+    "nao atende nem mesmo ao uso basico como navegacao"
+   ],
+   "only_rules": [
+    "mesmo ao uso basico como navegacao",
+    "nao atende"
+   ]
+  },
+  {
+   "review_id": 2452950,
+   "only_2020": [
+    "porem tive o desprazer de vim com auto falante esquerdo com defeito"
+   ],
+   "only_rules": [
+    "tive o desprazer de vim com auto falante esquerdo com defeito"
+   ]
+  },
+  {
+   "review_id": 2452955,
+   "only_2020": [
+    "porem"
+   ],
+   "only_rules": []
+  },
+  {
+   "review_id": 2452962,
+   "only_2020": [
+    "entrega antes",
+    "previsto",
+    "qualidade da loja com"
+   ],
+   "only_rules": [
+    "com",
+    "entrega antes do previsto",
+    "qualidade da loja"
+   ]
+  },
+  {
+   "review_id": 2452967,
+   "only_2020": [
+    "a entrega tambem foi bem rapida parabens e eu recomendo",
+    "eu gostei do servico da maneira facil de comprar sem ter que sair de casa"
+   ],
+   "only_rules": [
+    "eu gostei do servico da maneira facil de comprar sem ter que sair de casa e a entrega tambem foi bem rapida parabens",
+    "eu recomendo"
+   ]
+  },
+  {
+   "review_id": 2452970,
+   "only_2020": [
+    "previsto",
+    "produto muito bom preco beneficio anericanas esta de parabens chegou antes"
+   ],
+   "only_rules": [
+    "produto muito bom preco beneficio anericanas esta de parabens chegou antes do previsto"
+   ]
+  },
+  {
+   "review_id": 2452976,
+   "only_2020": [
+    "cd dvd"
+   ],
+   "only_rules": [
+    "cd",
+    "dvd"
+   ]
+  }
+ ]
+}

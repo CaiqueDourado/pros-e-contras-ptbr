@@ -1,0 +1,1109 @@
+mode,group_id,kind,rank,clause,mentions,label,product
+2020,67038,pro,1,Muito bom,3,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,pro,2,Super recomendo,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,pro,3,Otimo produto,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,pro,4,Produto excelente,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,con,1,Atendeu minha necessidade,1,wrong_polarity,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,con,2,Me arrependi muito,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,con,3,Nao teria comprado,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,67038,con,4,É lamentável,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,pro,1,Muito bom,3,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,pro,2,Super recomendo,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,pro,3,Aspira muito bem,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,pro,4,Ótimo produto,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,con,1,Nao recebi o produto comprado a quase 2 meses,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,con,2,Triste ver a WAP fazendo algo tao pobre,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,con,3,Muito barulhento um barulho irritante não gostei deveria ser silencioso,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+clause,67038,con,4,Nao adianta ele continua soltando pó pela parte traseira,1,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+"clause, 2+ reviews",67038,pro,1,Muito bom,3,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+"clause, 2+ reviews",67038,pro,2,Super recomendo,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+"clause, 2+ reviews",67038,pro,3,Aspira muito bem,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+"clause, 2+ reviews",67038,pro,4,Ótimo produto,2,right,Aspirador de Pó e Água Wap Gtw Inox 20l 1600w
+2020,118781,pro,1,Otimo produto,11,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,pro,2,Super recomendo,8,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,pro,3,Recomendo a todos,7,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,pro,4,Produto de ótima qualidade,7,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,con,1,Somente a tampa que acho deveriam pensar no jeito de não esquentar por igual,2,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,con,2,No entanto,1,no_opinion,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,con,3,Estou decepcionada,1,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,118781,con,4,Tudo mais,1,no_opinion,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,pro,1,Otimo produto,12,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,pro,2,Otima qualidade,9,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,pro,3,Super recomendo,8,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,pro,4,Recomendo a todos,7,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,con,1,Somente a tampa que acho deveriam pensar no jeito de não esquentar por igual,2,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,con,2,O atendimento do sac é pessimo apenas disse não podem fazer nada,1,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,con,3,Quando mando msg tentando entrar em contando eles me respondem com aqueles e-mails automáticos,1,right,Jogo de Panelas 5 Peças Solar Tramontina
+clause,118781,con,4,Uma loja parceira muito ruim que vendo produtos sem ter em estoque para entregar aos clientes consulte o reclame aqui antes de fazer uma compra deste parceiro da loja,1,right,Jogo de Panelas 5 Peças Solar Tramontina
+"clause, 2+ reviews",118781,pro,1,Otimo produto,12,right,Jogo de Panelas 5 Peças Solar Tramontina
+"clause, 2+ reviews",118781,pro,2,Otima qualidade,9,right,Jogo de Panelas 5 Peças Solar Tramontina
+"clause, 2+ reviews",118781,pro,3,Super recomendo,8,right,Jogo de Panelas 5 Peças Solar Tramontina
+"clause, 2+ reviews",118781,pro,4,Recomendo a todos,7,right,Jogo de Panelas 5 Peças Solar Tramontina
+"clause, 2+ reviews",118781,con,1,Somente a tampa que acho deveriam pensar no jeito de não esquentar por igual,2,right,Jogo de Panelas 5 Peças Solar Tramontina
+2020,119754,pro,1,Super recomendo,21,right,Lavadora Consul 16Kg 110V
+2020,119754,pro,2,Otimo produto,19,right,Lavadora Consul 16Kg 110V
+2020,119754,pro,3,Muito boa,19,right,Lavadora Consul 16Kg 110V
+2020,119754,pro,4,Excelente produto,17,right,Lavadora Consul 16Kg 110V
+2020,119754,con,1,Nao recomendo,4,right,Lavadora Consul 16Kg 110V
+2020,119754,con,2,Eu tenho,4,no_opinion,Lavadora Consul 16Kg 110V
+2020,119754,con,3,Me arrependi,2,right,Lavadora Consul 16Kg 110V
+2020,119754,con,4,O pior,2,no_opinion,Lavadora Consul 16Kg 110V
+clause,119754,pro,1,Otimo produto,22,right,Lavadora Consul 16Kg 110V
+clause,119754,pro,2,Super recomendo,21,right,Lavadora Consul 16Kg 110V
+clause,119754,pro,3,Muito boa,19,right,Lavadora Consul 16Kg 110V
+clause,119754,pro,4,Excelente produto,17,right,Lavadora Consul 16Kg 110V
+clause,119754,con,1,Não recomendo,4,right,Lavadora Consul 16Kg 110V
+clause,119754,con,2,Esperar de 1 a 2 meses pelo estorno do dinheiro,2,right,Lavadora Consul 16Kg 110V
+clause,119754,con,3,Ligar pra lá pedir o cancelamento do pedido,2,no_opinion,Lavadora Consul 16Kg 110V
+clause,119754,con,4,Com menos de 3 meses já é a segunda vez que tenho que dar reparo,2,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,pro,1,Otimo produto,22,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,pro,2,Super recomendo,21,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,pro,3,Muito boa,19,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,pro,4,Excelente produto,17,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,con,1,Não recomendo,4,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,con,2,Esperar de 1 a 2 meses pelo estorno do dinheiro,2,right,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,con,3,Ligar pra lá pedir o cancelamento do pedido,2,no_opinion,Lavadora Consul 16Kg 110V
+"clause, 2+ reviews",119754,con,4,Com menos de 3 meses já é a segunda vez que tenho que dar reparo,2,right,Lavadora Consul 16Kg 110V
+2020,185861,pro,1,Entrega super rápida,4,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,pro,2,Produto muito bom,3,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,pro,3,Otimo produto,1,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,pro,4,Excelente produto,1,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,con,1,Sai pouca névoa,2,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,con,2,Uma eternidade para fazer uma inalaçao com 5 ml de soro,2,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,con,3,Nao recomendo,1,right,Medicate Bivolt Md 1000 Inalador
+2020,185861,con,4,Nao comprem,1,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,pro,1,A entrega foi super rápida,2,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,pro,2,Entrega super rápida,2,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,pro,3,O produto é ótimo,2,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,pro,4,É um ótimo produto,2,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,con,1,Uma eternidade para fazer uma inalaçao com 5 ml de soro,2,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,con,2,Sai pouca névoa,2,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,con,3,"Loja já me passou todos os procedimentos,e a troca também será feita.nao recomendo inalador nebulizador portátil bivolt-medicate por nao ligar, o aparelho em primeiro teste já nem funcionou que situaçao.",1,right,Medicate Bivolt Md 1000 Inalador
+clause,185861,con,4,Ele chegou com defeito nunca mais compro nessa loja,1,right,Medicate Bivolt Md 1000 Inalador
+"clause, 2+ reviews",185861,pro,1,A entrega foi super rápida,2,right,Medicate Bivolt Md 1000 Inalador
+"clause, 2+ reviews",185861,pro,2,Entrega super rápida,2,right,Medicate Bivolt Md 1000 Inalador
+"clause, 2+ reviews",185861,pro,3,O produto é ótimo,2,right,Medicate Bivolt Md 1000 Inalador
+"clause, 2+ reviews",185861,pro,4,É um ótimo produto,2,right,Medicate Bivolt Md 1000 Inalador
+"clause, 2+ reviews",185861,con,1,Uma eternidade para fazer uma inalaçao com 5 ml de soro,2,right,Medicate Bivolt Md 1000 Inalador
+"clause, 2+ reviews",185861,con,2,Sai pouca névoa,2,right,Medicate Bivolt Md 1000 Inalador
+2020,246356,pro,1,Produto muito bom,33,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,pro,2,Otimo produto,30,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,pro,3,Excelente produto,23,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,pro,4,Muito bom,21,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,con,1,Nao dá segurança nenhuma,2,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,con,2,Otimo produto,1,wrong_polarity,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,con,3,Entrega antes do prazo,1,wrong_polarity,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,246356,con,4,Boa noite,1,no_opinion,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,pro,1,Otimo produto,32,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,pro,2,Produto muito bom,26,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,pro,3,Excelente produto,24,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,pro,4,Muito bom,21,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,con,1,Troca de lâmpadas,2,no_opinion,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,con,2,Comprei o produto pela internet a primeira compra o acabamento do degrau na parte de fora todo trincado cheio de pontos q podem cortar a mão da pessoa que vai montar ou manusear a mesma sinalizei para a loja virtual este detalhes do acabamento pessimo nada foi feito recebi uma outra escada igual,1,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,con,3,Os pes de borrachas vermelhas veio manchado/sujo de graxa de zero a dez minha nota é oito,1,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+clause,246356,con,4,Infelizmente quando fui abrir a embalagem estava com um degrau amassado,1,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+"clause, 2+ reviews",246356,pro,1,Otimo produto,32,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+"clause, 2+ reviews",246356,pro,2,Produto muito bom,26,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+"clause, 2+ reviews",246356,pro,3,Excelente produto,24,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+"clause, 2+ reviews",246356,pro,4,Muito bom,21,right,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+"clause, 2+ reviews",246356,con,1,Troca de lâmpadas,2,no_opinion,Escada Articulada 4x4 com 16 Degraus de Alumínio BOTAFOGO ESC0293 ESC0293
+2020,269319,pro,1,Produto muito bom,15,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,pro,2,Excelente produto,8,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,pro,3,Nao é um ar condicionado,8,no_opinion,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,pro,4,Muito bom,7,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,con,1,Nao comprem,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,con,2,Nao recomendo o produto,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,con,3,Nao compraria novamente,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,269319,con,4,Pense bem,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,pro,1,Produto muito bom,13,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,pro,2,Atendeu às minhas expectativas,8,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,pro,3,Excelente produto,8,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,pro,4,Entrega rápida,7,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,con,1,Após esse tempo de uso onde claro a garantia acaba começa a dor de cabeça,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,con,2,A opçao umidificar mesmo colocando gelo sinceramente nao resfria o ambiente,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,con,3,Nao compraria novamente,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+clause,269319,con,4,Nao recomendo o produto,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,pro,1,Produto muito bom,13,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,pro,2,Atendeu às minhas expectativas,8,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,pro,3,Excelente produto,8,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,pro,4,Entrega rápida,7,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,con,1,Após esse tempo de uso onde claro a garantia acaba começa a dor de cabeça,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,con,2,A opçao umidificar mesmo colocando gelo sinceramente nao resfria o ambiente,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,con,3,Nao compraria novamente,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+"clause, 2+ reviews",269319,con,4,Nao recomendo o produto,2,right,Climatizador de Ar Consul Quente e Frio Bem Estar C1r07at Titânio
+2020,293640,pro,1,Ótimo custo benefício,3,right,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,pro,2,Produto muito bom,2,right,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,pro,3,Tudo perfeito,2,right,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,pro,4,Gostei da rapidez da entrega,2,right,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,con,1,Nao recomendo,3,right,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,con,2,Joguei dinheiro fora,3,right,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,con,3,Danifiquei a embalagem,3,no_opinion,Pilha Recarregável Palito Aaa Rayovac
+2020,293640,con,4,"Eu estou atrás de umas de 1,5 v",3,no_opinion,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,pro,1,Ótimo custo/benefício,2,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,pro,2,Gostei da rapidez da entrega,2,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,pro,3,Tudo perfeito,2,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,pro,4,Excelente produto,2,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,con,1,Joguei dinheiro fora,3,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,con,2,Não recomendo,3,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,con,3,"Podiam ter avisado que eram pilhas de 1,2 v",3,right,Pilha Recarregável Palito Aaa Rayovac
+clause,293640,con,4,Só não mando de volta,3,no_opinion,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,pro,1,Ótimo custo/benefício,2,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,pro,2,Gostei da rapidez da entrega,2,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,pro,3,Tudo perfeito,2,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,pro,4,Excelente produto,2,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,con,1,Joguei dinheiro fora,3,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,con,2,Não recomendo,3,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,con,3,"Podiam ter avisado que eram pilhas de 1,2 v",3,right,Pilha Recarregável Palito Aaa Rayovac
+"clause, 2+ reviews",293640,con,4,Só não mando de volta,3,no_opinion,Pilha Recarregável Palito Aaa Rayovac
+2020,340272,pro,1,Fácil de limpar,5,right,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,pro,2,Super Recomendo,4,right,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,pro,3,Gostei muito do produto,4,right,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,pro,4,Muito bom,3,right,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,con,1,Não recebi o produto,1,right,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,con,2,Decepção total,1,right,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,con,3,No caso,1,no_opinion,Sanduicheira e Grill Philco Press Inox Red
+2020,340272,con,4,Até a presente data,1,no_opinion,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,pro,1,Fácil de limpar,6,right,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,pro,2,Super recomendo,4,right,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,pro,3,Superou minhas expectativas,3,right,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,pro,4,Cumpre o que promete,3,right,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,con,1,"Cumpre o que promete só não gostei da loja. o produto veio sem ser embalado, com cx amassada e produto riscado... decepção total.. Loja tinha parcerias melhores",1,right,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,con,2,Se fosse uma gaveta n teria problema,1,no_opinion,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,con,3,Não recebi o produto,1,right,Sanduicheira e Grill Philco Press Inox Red
+clause,340272,con,4,Decepção total,1,right,Sanduicheira e Grill Philco Press Inox Red
+"clause, 2+ reviews",340272,pro,1,Fácil de limpar,6,right,Sanduicheira e Grill Philco Press Inox Red
+"clause, 2+ reviews",340272,pro,2,Super recomendo,4,right,Sanduicheira e Grill Philco Press Inox Red
+"clause, 2+ reviews",340272,pro,3,Superou minhas expectativas,3,right,Sanduicheira e Grill Philco Press Inox Red
+"clause, 2+ reviews",340272,pro,4,Cumpre o que promete,3,right,Sanduicheira e Grill Philco Press Inox Red
+2020,438988,pro,1,Muito bom,72,right,DVD Cinquenta Tons de Cinza
+2020,438988,pro,2,Entrega rápida,51,right,DVD Cinquenta Tons de Cinza
+2020,438988,pro,3,Super recomendo,45,right,DVD Cinquenta Tons de Cinza
+2020,438988,pro,4,Entrega super rápida,31,right,DVD Cinquenta Tons de Cinza
+2020,438988,con,1,No mais,3,no_opinion,DVD Cinquenta Tons de Cinza
+2020,438988,con,2,Ainda assim,2,no_opinion,DVD Cinquenta Tons de Cinza
+2020,438988,con,3,O box,2,no_opinion,DVD Cinquenta Tons de Cinza
+2020,438988,con,4,Desta forma,2,no_opinion,DVD Cinquenta Tons de Cinza
+clause,438988,pro,1,Muito bom,75,right,DVD Cinquenta Tons de Cinza
+clause,438988,pro,2,Entrega rápida,52,right,DVD Cinquenta Tons de Cinza
+clause,438988,pro,3,Super recomendo,45,right,DVD Cinquenta Tons de Cinza
+clause,438988,pro,4,Entrega super rápida,20,right,DVD Cinquenta Tons de Cinza
+clause,438988,con,1,Rasga a toa,2,right,DVD Cinquenta Tons de Cinza
+clause,438988,con,2,Também venho para reclamar sobre o produto ter vindo com defeito,2,right,DVD Cinquenta Tons de Cinza
+clause,438988,con,3,A capa do box veio rasgada,2,right,DVD Cinquenta Tons de Cinza
+clause,438988,con,4,De descobrir o que virá em seguida,2,wrong_polarity,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,pro,1,Muito bom,75,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,pro,2,Entrega rápida,52,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,pro,3,Super recomendo,45,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,pro,4,Entrega super rápida,20,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,con,1,Rasga a toa,2,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,con,2,Também venho para reclamar sobre o produto ter vindo com defeito,2,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,con,3,A capa do box veio rasgada,2,right,DVD Cinquenta Tons de Cinza
+"clause, 2+ reviews",438988,con,4,De descobrir o que virá em seguida,2,wrong_polarity,DVD Cinquenta Tons de Cinza
+2020,570884,pro,1,Excelente produto,6,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,pro,2,Otimo custo benefício,4,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,pro,3,Muito bom,3,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,pro,4,Produto excelente,2,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,con,1,Nao consegui,1,no_opinion,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,con,2,Como a minha,1,no_opinion,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,con,3,Depois de 1 ano,1,no_opinion,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,570884,con,4,Nao conseguiu,1,no_opinion,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,pro,1,Excelente produto,6,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,pro,2,De fácil manuseio,4,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,pro,3,Ótimo custo benefício,3,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,pro,4,Ótimo Produto,3,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,con,1,Outro problema que nao gostei foi ao utilizar o suporte hp meu produto se encontrava fora de garantia isso me deixou meio grilado se,1,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,con,2,Nao gostei da qualidade do produto peças de junçao mal encaixadas pela aparência poderia ter uma montagem melhor,1,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,con,3,Ontem do nada apareceu um erro na cabeça de impressão,1,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+clause,570884,con,4,Assim ela nao imprime de qualquer um que mandar arquivos na conta de e-mail,1,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+"clause, 2+ reviews",570884,pro,1,Excelente produto,6,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+"clause, 2+ reviews",570884,pro,2,De fácil manuseio,4,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+"clause, 2+ reviews",570884,pro,3,Ótimo custo benefício,3,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+"clause, 2+ reviews",570884,pro,4,Ótimo Produto,3,right,HP Officejet Pro 6830 + 3 Cartuchos 934XL Preto
+2020,601133,pro,1,Muito bom,9,right,Escorredor de Arroz Inox - La Cuisine
+2020,601133,pro,2,Muito bonito,6,right,Escorredor de Arroz Inox - La Cuisine
+2020,601133,pro,3,Excelente produto,5,right,Escorredor de Arroz Inox - La Cuisine
+2020,601133,pro,4,Gostei muito,4,right,Escorredor de Arroz Inox - La Cuisine
+2020,601133,con,1,Nao recomendo,1,right,Escorredor de Arroz Inox - La Cuisine
+2020,601133,con,2,Atendeu minhas expectativas,1,wrong_polarity,Escorredor de Arroz Inox - La Cuisine
+2020,601133,con,3,Produto de baixa qualidade,1,right,Escorredor de Arroz Inox - La Cuisine
+2020,601133,con,4,Produto frágil,1,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,pro,1,Muito bom,10,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,pro,2,Gostei muito,5,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,pro,3,Excelente produto,5,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,pro,4,Muito bonito,5,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,con,1,Produto de péssima qualidade na primeira vez em uso já está com sinais de ferrugem,1,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,con,2,Tres usada ja estavo totalmente enferrujado nao recomendo,1,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,con,3,Deixei meu dinheiro jogado no armário,1,right,Escorredor de Arroz Inox - La Cuisine
+clause,601133,con,4,Material com inox mau acabado de péssima qualidade,1,right,Escorredor de Arroz Inox - La Cuisine
+"clause, 2+ reviews",601133,pro,1,Muito bom,10,right,Escorredor de Arroz Inox - La Cuisine
+"clause, 2+ reviews",601133,pro,2,Gostei muito,5,right,Escorredor de Arroz Inox - La Cuisine
+"clause, 2+ reviews",601133,pro,3,Excelente produto,5,right,Escorredor de Arroz Inox - La Cuisine
+"clause, 2+ reviews",601133,pro,4,Muito bonito,5,right,Escorredor de Arroz Inox - La Cuisine
+2020,611557,pro,1,Muito bom,8,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,pro,2,Otimo produto,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,pro,3,Cumpre o que promete,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,pro,4,Ferro muito bom,5,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,con,1,Está na assistencia técnica para análise,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,con,2,Ainda não pode ser testado pq a descrição do produto omite que os pinos da tomada são de bitola maior que a usual,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,con,3,Desde o começo notei que não esquentava muito,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,611557,con,4,Quase não saia vapor,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,pro,1,Muito bom,10,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,pro,2,Cumpre o que promete,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,pro,3,Produto excelente,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,pro,4,Otimo produto,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,con,1,Está na assistencia técnica para análise,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,con,2,Quase não saia vapor,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,con,3,Ainda não pode ser testado pq a descrição do produto omite que os pinos da tomada são de bitola maior que a usual,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+clause,611557,con,4,Desde o começo notei que não esquentava muito,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,pro,1,Muito bom,10,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,pro,2,Cumpre o que promete,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,pro,3,Produto excelente,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,pro,4,Otimo produto,6,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,con,1,Está na assistencia técnica para análise,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,con,2,Quase não saia vapor,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,con,3,Ainda não pode ser testado pq a descrição do produto omite que os pinos da tomada são de bitola maior que a usual,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+"clause, 2+ reviews",611557,con,4,Desde o começo notei que não esquentava muito,2,right,Ferro a Vapor Philips Walita Powerlife RI2960 Base Antiaderente Vapor Vertical e Fio de 2m
+2020,621960,pro,1,Entrega super rápida,2,right,Bouncer Ursinho Azul - Mastela
+2020,621960,pro,2,Chegou antes do prazo,2,right,Bouncer Ursinho Azul - Mastela
+2020,621960,pro,3,Qualidade boa,2,right,Bouncer Ursinho Azul - Mastela
+2020,621960,pro,4,Entrega muito rapida,2,right,Bouncer Ursinho Azul - Mastela
+2020,621960,con,1,Nao gostei da compra,2,right,Bouncer Ursinho Azul - Mastela
+2020,621960,con,2,Nao recomendo para recém nascido,2,right,Bouncer Ursinho Azul - Mastela
+2020,621960,con,3,Comecei a usar bem,2,no_opinion,Bouncer Ursinho Azul - Mastela
+2020,621960,con,4,Comprei o produto com meu bebê ainda bem novinho,2,no_opinion,Bouncer Ursinho Azul - Mastela
+clause,621960,pro,1,Entrega super rápida,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,pro,2,A entrega muito rápida,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,pro,3,Chegou antes do prazo,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,pro,4,Gostei da compra,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,con,1,Eles ficam c a cabeça caindo pro lado,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,con,2,Funçao de vibrar nao funcionou,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,con,3,Não gostei da compra,2,right,Bouncer Ursinho Azul - Mastela
+clause,621960,con,4,Rápida o produto que nao vale a pena,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,pro,1,Entrega super rápida,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,pro,2,A entrega muito rápida,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,pro,3,Chegou antes do prazo,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,pro,4,Gostei da compra,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,con,1,Eles ficam c a cabeça caindo pro lado,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,con,2,Funçao de vibrar nao funcionou,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,con,3,Não gostei da compra,2,right,Bouncer Ursinho Azul - Mastela
+"clause, 2+ reviews",621960,con,4,Rápida o produto que nao vale a pena,2,right,Bouncer Ursinho Azul - Mastela
+2020,629563,pro,1,Entrega super rápida,3,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,pro,2,Entrega rápida,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,pro,3,Produto muito bom,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,pro,4,Produto de excelente qualidade,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,con,1,Segundo o técnico,2,no_opinion,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,con,2,Pouco tempo de uso,1,no_opinion,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,con,3,O espelho,1,no_opinion,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,629563,con,4,Nao sei o porquê,1,no_opinion,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,pro,1,É muito bonita,3,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,pro,2,Entrega super rápida,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,pro,3,Entrega rápida,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,pro,4,Produto de excelente qualidade,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,con,1,A assistência técnica diz que demora até 30 dias pra arrumar,1,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,con,2,Logo depois de montada começou a apresentar barulho no movimento central cartridge,1,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,con,3,Tive que levar a bicicleta a assistência técnica para verificar,1,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+clause,629563,con,4,Vou consultar a assistência técnica,1,no_opinion,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+"clause, 2+ reviews",629563,pro,1,É muito bonita,3,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+"clause, 2+ reviews",629563,pro,2,Entrega super rápida,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+"clause, 2+ reviews",629563,pro,3,Entrega rápida,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+"clause, 2+ reviews",629563,pro,4,Produto de excelente qualidade,2,right,Bicicleta Caloi 500 F Aro 26 21 Marchas Branca
+2020,630204,pro,1,Fácil de montar,14,right,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,pro,2,Muito bom,12,right,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,pro,3,Produto muito bom,11,right,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,pro,4,Entrega super rápida,11,right,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,con,1,Faz muito barulho,4,right,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,con,2,Comprei o produto,2,no_opinion,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,con,3,Apena na ponta muito fraco,2,right,Simulador de Caminhada Tecfit Easy Walking
+2020,630204,con,4,Nao recomendo a compra desde aparelho,2,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,pro,1,Fácil de montar,18,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,pro,2,Muito bom,15,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,pro,3,Eu recomendo,10,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,pro,4,Gostei muito,10,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,con,1,No mesmo dia que chegou quebrou a barra de cima uma porcaria ela é encaixada apenas por dois parafusos que vem em um tubo oco,2,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,con,2,Nao recomendo a compra desde aparelho,2,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,con,3,Ainda não consegui aprender a mexer no monitor,2,right,Simulador de Caminhada Tecfit Easy Walking
+clause,630204,con,4,Muito ruim,2,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,pro,1,Fácil de montar,18,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,pro,2,Muito bom,15,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,pro,3,Eu recomendo,10,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,pro,4,Gostei muito,10,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,con,1,No mesmo dia que chegou quebrou a barra de cima uma porcaria ela é encaixada apenas por dois parafusos que vem em um tubo oco,2,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,con,2,Nao recomendo a compra desde aparelho,2,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,con,3,Ainda não consegui aprender a mexer no monitor,2,right,Simulador de Caminhada Tecfit Easy Walking
+"clause, 2+ reviews",630204,con,4,Muito ruim,2,right,Simulador de Caminhada Tecfit Easy Walking
+2020,639740,pro,1,Produto muito bom,29,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,pro,2,Muito bom,24,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,pro,3,Otimo produto,12,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,pro,4,Entrega rápida,10,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,con,1,Nao gostei,7,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,con,2,Muito fraco,3,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,con,3,É muito barulhento,2,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,639740,con,4,Nao atendeu minhas expectativas,2,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,pro,1,Produto muito bom,31,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,pro,2,Muito bom,26,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,pro,3,Ótimo produto,15,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,pro,4,Entrega rápida,10,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,con,1,Não gostei,7,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,con,2,Muito fraco,4,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,con,3,Devolvi o produto ate hoje nao recebi vale troca,2,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+clause,639740,con,4,Nao atendeu minhas expectativas,2,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,pro,1,Produto muito bom,31,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,pro,2,Muito bom,26,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,pro,3,Ótimo produto,15,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,pro,4,Entrega rápida,10,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,con,1,Não gostei,7,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,con,2,Muito fraco,4,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,con,3,Devolvi o produto ate hoje nao recebi vale troca,2,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+"clause, 2+ reviews",639740,con,4,Nao atendeu minhas expectativas,2,right,Climatizador e Umidificador Portátil Frio Springer Wind 220v - Scafrb2
+2020,651303,pro,1,Eu recomendo,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,pro,2,Vale a pena,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,pro,3,Atendeu minhas expectativas,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,pro,4,Ótima qualidade,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,con,1,Péssima qualidade,2,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,con,2,Nao recomendo,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,con,3,Nao gostei,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,651303,con,4,Muito fraco,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,pro,1,Atendeu minhas expectativas,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,pro,2,Custo beneficio excelente,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,pro,3,Bastante resistentes podem comprar que vcs nao vao se arrepender,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,pro,4,Adorei foi umas das melhores compra que fiz pela internet elas sao espaçosas mesmo,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,con,1,Péssima qualidade,2,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,con,2,Agora a mala media 23 veio toda torta as rodas totalmente torta visualmente as rodas tinha que ficar centralizadas mais veio totalmente para a direita ainda nem usei ta com etiqueta,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,con,3,Devolvi o produto para substituiçao por apresentar vários defeitos de fabricaçao,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+clause,651303,con,4,O produto deixou a desejar a mala m veio com defeito já rasgada um pouco que pena a primeira compra que fiz que fiquei insatisfeita,1,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+"clause, 2+ reviews",651303,con,1,Péssima qualidade,2,right,Conjunto de 03 Malas de Viagem Batiki 19 23 27 Bege
+2020,656139,pro,1,Entrega rápida,11,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,pro,2,Otimo custo benefício,9,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,pro,3,Imagem muito boa,9,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,pro,4,Excelente produto,7,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,con,1,Nao recomendo,4,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,con,2,Muito ruim,1,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,con,3,A qualidade,1,no_opinion,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,656139,con,4,O som,1,no_opinion,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,pro,1,Entrega rápida,11,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,pro,2,Imagem excelente,11,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,pro,3,Ótimo custo beneficio,7,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,pro,4,Excelente produto,7,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,con,1,Nao recomendo,5,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,con,2,Recebe adesivos para decorar a tv.isso sim é respeito pelo consumidor,2,wrong_polarity,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,con,3,Digo isso em referência a canais analógicos,2,no_opinion,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+clause,656139,con,4,O que deixa o som péssimo parecendo de rádio de pilha,1,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,pro,1,Entrega rápida,11,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,pro,2,Imagem excelente,11,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,pro,3,Ótimo custo beneficio,7,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,pro,4,Excelente produto,7,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,con,1,Nao recomendo,5,right,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,con,2,Recebe adesivos para decorar a tv.isso sim é respeito pelo consumidor,2,wrong_polarity,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+"clause, 2+ reviews",656139,con,3,Digo isso em referência a canais analógicos,2,no_opinion,"TV LED 39"" AOC LE39D3330 Full HD 2 HDMI 1 USB DTV 60Hz"
+2020,657609,pro,1,Muito bom,22,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,pro,2,Excelente produto,10,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,pro,3,Produto muito bom,10,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,pro,4,Gostei muito,9,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,con,1,Nao recomendo,5,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,con,2,Nao gostei,2,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,con,3,Por exemplo,2,no_opinion,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,657609,con,4,Muito ruim,2,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,pro,1,Muito bom,22,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,pro,2,Fácil de usar,11,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,pro,3,Excelente produto,10,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,pro,4,Gostei muito,9,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,con,1,Nao recomendo,5,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,con,2,Nao gostei,3,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,con,3,Me decepcionei,2,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+clause,657609,con,4,Nao tem tv,2,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,pro,1,Muito bom,22,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,pro,2,Fácil de usar,11,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,pro,3,Excelente produto,10,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,pro,4,Gostei muito,9,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,con,1,Nao recomendo,5,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,con,2,Nao gostei,3,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,con,3,Me decepcionei,2,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+"clause, 2+ reviews",657609,con,4,Nao tem tv,2,right,"GPS TomTom Start 55 Tela 5.0"" - Função TTS (fala o Nome das Ruas), Atualizações Diárias e Rotas Inteligentes"
+2020,679390,pro,1,Produto muito bom,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,pro,2,Fácil de usar,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,pro,3,Recomendo o produto,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,pro,4,Super prático,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,con,1,Nao liga,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,con,2,Nao recomendo,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,con,3,Comprei o produto,2,no_opinion,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,679390,con,4,Nao compraria de novo,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,pro,1,Super prático,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,pro,2,Recomendo o produto,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,pro,3,Fácil de usar,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,pro,4,Super recomendo,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,con,1,Nao liga,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,con,2,No final do ano passado o aparelho parou de funcionar,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,con,3,Não compraria de novo,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+clause,679390,con,4,Desde o ano passado não carrega mais,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,pro,1,Super prático,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,pro,2,Recomendo o produto,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,pro,3,Fácil de usar,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,pro,4,Super recomendo,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,con,1,Nao liga,3,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,con,2,No final do ano passado o aparelho parou de funcionar,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,con,3,Não compraria de novo,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+"clause, 2+ reviews",679390,con,4,Desde o ano passado não carrega mais,2,right,Depilador Íntimo Philips Satinelle Satin Intimate + Trimmer HP6567/30 Bivolt Seco & Molhado
+2020,684660,pro,1,Muito bom,46,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,pro,2,Aparelho muito bom,26,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,pro,3,Otimo produto,24,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,pro,4,Produto muito bom,21,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,con,1,Nao recomendo,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,con,2,Uma pena,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,con,3,Nao compre,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,684660,con,4,A bateria dura muito pouco,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,pro,1,Muito bom,47,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,pro,2,Otimo produto,24,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,pro,3,O aparelho é muito bom,22,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,pro,4,Entrega rápida,19,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,con,1,Nao recomendo,4,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,con,2,Nao recomendo à ninguém,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,con,3,Nao compre,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+clause,684660,con,4,Deveria ser tipo tampa emborrachada,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,pro,1,Muito bom,47,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,pro,2,Otimo produto,24,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,pro,3,O aparelho é muito bom,22,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,pro,4,Entrega rápida,19,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,con,1,Nao recomendo,4,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,con,2,Nao recomendo à ninguém,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,con,3,Nao compre,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+"clause, 2+ reviews",684660,con,4,Deveria ser tipo tampa emborrachada,2,right,Smartphone Cce Motion Plus Sk504 3g Tela 5 Polegadas 4gb Android 4.1 Câmera 8mp Dual Chip Branco
+2020,725383,pro,1,Muito bom,31,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,pro,2,Fácil de usar,8,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,pro,3,Ela adorou,8,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,pro,4,Entrega rápida,6,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,con,1,Nao recomendo,10,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,con,2,Veio com defeito,7,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,con,3,Péssimo produto,5,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,725383,con,4,Trava muito,5,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,pro,1,Muito bom,32,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,pro,2,Ótimo produto,9,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,pro,3,Fácil de usar,9,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,pro,4,Produto bom,8,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,con,1,Não recomendo,14,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,con,2,Veio com defeito,7,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,con,3,Trava muito,6,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+clause,725383,con,4,Muito ruim,5,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,pro,1,Muito bom,32,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,pro,2,Ótimo produto,9,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,pro,3,Fácil de usar,9,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,pro,4,Produto bom,8,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,con,1,Não recomendo,14,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,con,2,Veio com defeito,7,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,con,3,Trava muito,6,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+"clause, 2+ reviews",725383,con,4,Muito ruim,5,right,"Smartphone Samsung Galaxy Gran 2 Duos Dual Chip Desbloqueado Android 4.3 Tela 5.3"" Câmera 8MP TV Digital - Preto"
+2020,761201,pro,1,Entrega rápida,6,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,pro,2,Muito bom,5,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,pro,3,Produto muito bom,5,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,pro,4,Entrega super rápida,5,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,con,1,Nao comprem,1,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,con,2,Me arrependi,1,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,con,3,Nao recomento,1,right,Carrinho Berço Mônaco Black First Steps
+2020,761201,con,4,Já quebrou,1,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,pro,1,Entrega rápida,6,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,pro,2,Muito bom,5,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,pro,3,Entrega super rápida,4,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,pro,4,Recomendo a todos,3,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,con,1,Nao gostei comprei este carrinho faz 15 dias as rodinhas nao rodam é horrível nao deslisa trava nao roda,1,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,con,2,A assistência técnica nao facilita em nenhum momento outro tipo de avaliaçao há nao ser de nós consumidores levar o produto ate eles,1,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,con,3,Agora tenho que sair de casa ir ate a assistência técnica pra arrumar muito trabalho comprar coisa barata é isso que da,1,right,Carrinho Berço Mônaco Black First Steps
+clause,761201,con,4,Eu gostaria de deixar aqui meu apelo nao compre esse produto,1,right,Carrinho Berço Mônaco Black First Steps
+"clause, 2+ reviews",761201,pro,1,Entrega rápida,6,right,Carrinho Berço Mônaco Black First Steps
+"clause, 2+ reviews",761201,pro,2,Muito bom,5,right,Carrinho Berço Mônaco Black First Steps
+"clause, 2+ reviews",761201,pro,3,Entrega super rápida,4,right,Carrinho Berço Mônaco Black First Steps
+"clause, 2+ reviews",761201,pro,4,Recomendo a todos,3,right,Carrinho Berço Mônaco Black First Steps
+2020,791450,pro,1,Nao trava,21,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,pro,2,Super recomendo,11,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,pro,3,Muito bom,9,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,pro,4,Produto excelente,9,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,con,1,Nao recomendo,7,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,con,2,Nao comprem,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,con,3,Por exemplo,2,no_opinion,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791450,con,4,Nao compre,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,pro,1,Nao trava,22,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,pro,2,Super recomendo,12,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,pro,3,Produto excelente,10,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,pro,4,Muito bom,9,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,con,1,Nao recomendo,6,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,con,2,O pior assistencia tecnica só em sao paulo,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,con,3,Para piorar essa semana o celular começou a desligar sozinho,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+clause,791450,con,4,A alguns dias começou a desligar sozinho,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,pro,1,Nao trava,22,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,pro,2,Super recomendo,12,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,pro,3,Produto excelente,10,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,pro,4,Muito bom,9,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,con,1,Nao recomendo,6,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,con,2,O pior assistencia tecnica só em sao paulo,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,con,3,Para piorar essa semana o celular começou a desligar sozinho,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+"clause, 2+ reviews",791450,con,4,A alguns dias começou a desligar sozinho,2,right,"Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5"" 16GB 4G Wi-Fi Câmera 13MP - Gold"
+2020,791758,pro,1,Ótimo custo benefício,3,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,pro,2,O toque nao é muito alto,3,wrong_polarity,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,pro,3,Entrega rápida,2,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,pro,4,Gostei muito do produto,2,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,con,1,Para mim,1,no_opinion,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,con,2,Decepçao total,1,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,con,3,Só tem um problema,1,no_opinion,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,791758,con,4,Impossível ouvir,1,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,pro,1,Muito bom,3,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,pro,2,Atendeu minhas expectativas,2,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,pro,3,Considerando custo/benefício,2,no_opinion,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,pro,4,Entrega rápida,2,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,con,1,Lamentável a philips nao ter esse recurso,1,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,con,2,Agora terei que levar até a assistência na cidade próxima,1,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,con,3,Ele só toca o aparelho a base nao toca entao ele é um pouco baixo se a casa for grande dependendo de qual comodo estiver nao da pra ouvir,1,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+clause,791758,con,4,Decepçao total,1,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+"clause, 2+ reviews",791758,pro,1,Muito bom,3,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+"clause, 2+ reviews",791758,pro,2,Atendeu minhas expectativas,2,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+"clause, 2+ reviews",791758,pro,3,Considerando custo/benefício,2,no_opinion,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+"clause, 2+ reviews",791758,pro,4,Entrega rápida,2,right,Telefone Sem Fio Azul Philips D1211WD/BR com Identificador de Chamadas e Viva Voz
+2020,852388,pro,1,Muito bom,19,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,pro,2,Entrega super rápida,17,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,pro,3,Excelente produto,12,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,pro,4,Otimo custo benefício,12,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,con,1,Nao recomendo,1,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,con,2,Muito satisfeita,1,wrong_polarity,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,con,3,Uma pena,1,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,852388,con,4,Nao vale a pena,1,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,pro,1,Muito bom,22,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,pro,2,Superou minhas expectativas,14,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,pro,3,Excelente produto,14,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,pro,4,Otimo custo benefício,11,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,con,1,Demora a abrir os aplicativos,2,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,con,2,Já está travando,2,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,con,3,De longe o rosto das pessoas ficam deformado ainda nao sei poque estou aguardando a resposta do sait,1,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+clause,852388,con,4,Estou tentando encontrar o endereço da assistência técnica pra ver isso,1,no_opinion,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+"clause, 2+ reviews",852388,pro,1,Muito bom,22,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+"clause, 2+ reviews",852388,pro,2,Superou minhas expectativas,14,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+"clause, 2+ reviews",852388,pro,3,Excelente produto,14,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+"clause, 2+ reviews",852388,pro,4,Otimo custo benefício,11,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+"clause, 2+ reviews",852388,con,1,Demora a abrir os aplicativos,2,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+"clause, 2+ reviews",852388,con,2,Já está travando,2,right,"Smartphone Samsung Galaxy J8 64GB Dual Chip Android 8.0 Tela 6"" Octa-Core 1.8GHz 4G Câmera 16MP F1.7 + 5MP F1.9 (Dual Cam) - Violeta"
+2020,883773,pro,1,Muito bom,5,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,pro,2,O som é bem alto,4,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,pro,3,Bem alto,3,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,pro,4,Entrega rápida,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,con,1,O produto veio com defeito,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,con,2,O custo benefício,2,no_opinion,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,con,3,Nao tem rádio,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883773,con,4,Pura mentira,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,pro,1,Muito bom,8,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,pro,2,Produto é bom,4,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,pro,3,Um bom custo benefício,3,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,pro,4,Ótimo som,3,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,con,1,No primeiro dia quebrou o conector de carregar tudo bem que coloquei pra carregar em cimado armário dai caiu do mesmo com o conector conectado,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,con,2,Não consigo fazer a troca ele não liga affs,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,con,3,Quebrou a entrada do conector usei duas hr apenas,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+clause,883773,con,4,Foi enviado veio com defeito,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,pro,1,Muito bom,8,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,pro,2,Produto é bom,4,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,pro,3,Um bom custo benefício,3,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,pro,4,Ótimo som,3,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,con,1,No primeiro dia quebrou o conector de carregar tudo bem que coloquei pra carregar em cimado armário dai caiu do mesmo com o conector conectado,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,con,2,Não consigo fazer a troca ele não liga affs,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,con,3,Quebrou a entrada do conector usei duas hr apenas,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+"clause, 2+ reviews",883773,con,4,Foi enviado veio com defeito,2,right,Mini Caixa de Som Speaker com Bluetooth e Entrada Usb
+2020,883940,pro,1,Lindo o produto,2,right,Ring Car Vermelho - Biemme
+2020,883940,pro,2,Meu filhinho [nome] aproveitou bastante,2,right,Ring Car Vermelho - Biemme
+2020,883940,pro,3,Gostei do produto,1,right,Ring Car Vermelho - Biemme
+2020,883940,pro,4,Adoramos o produto,1,right,Ring Car Vermelho - Biemme
+2020,883940,con,1,Não recomendo,1,right,Ring Car Vermelho - Biemme
+2020,883940,con,2,Muito frágil,1,right,Ring Car Vermelho - Biemme
+2020,883940,con,3,Nao gostei do produto,1,right,Ring Car Vermelho - Biemme
+2020,883940,con,4,O pior,1,no_opinion,Ring Car Vermelho - Biemme
+clause,883940,pro,1,Lindo o produto,2,right,Ring Car Vermelho - Biemme
+clause,883940,pro,2,Melhor um dia antes do prazer surper indico vcs estão de parabéns nota 1000,1,right,Ring Car Vermelho - Biemme
+clause,883940,pro,3,O produto eh ótimo amei veio antes do prazo,1,right,Ring Car Vermelho - Biemme
+clause,883940,pro,4,O prazo de entrega foi bem agil,1,right,Ring Car Vermelho - Biemme
+clause,883940,con,1,Eu realmente nao gostei foi o empurrador ele é terrivel o cabo é muito fino é como se nao encaixasse direito,2,right,Ring Car Vermelho - Biemme
+clause,883940,con,2,Quando tentamos empurrar fica meio mole,2,right,Ring Car Vermelho - Biemme
+clause,883940,con,3,A cor viria igual a da foto mais isso ñ confere,2,right,Ring Car Vermelho - Biemme
+clause,883940,con,4,Que nao sei como resolver esse problema pois nao tenho contato do fabricante que prejuizo,1,right,Ring Car Vermelho - Biemme
+"clause, 2+ reviews",883940,pro,1,Lindo o produto,2,right,Ring Car Vermelho - Biemme
+"clause, 2+ reviews",883940,con,1,Eu realmente nao gostei foi o empurrador ele é terrivel o cabo é muito fino é como se nao encaixasse direito,2,right,Ring Car Vermelho - Biemme
+"clause, 2+ reviews",883940,con,2,Quando tentamos empurrar fica meio mole,2,right,Ring Car Vermelho - Biemme
+"clause, 2+ reviews",883940,con,3,A cor viria igual a da foto mais isso ñ confere,2,right,Ring Car Vermelho - Biemme
+2020,1023808,pro,1,Produto de ótima qualidade,3,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,pro,2,Ótimo custo benefício,3,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,pro,3,Entrega rápida,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,pro,4,Chegou antes do prazo,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,con,1,Produto de péssima qualidade,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,con,2,Se fala,1,no_opinion,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,con,3,Material ruim,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1023808,con,4,O produto é muito frágil,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,pro,1,Produto de ótima qualidade,3,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,pro,2,Ótimo custo benefício,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,pro,3,Chegou antes do prazo,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,pro,4,Entrega rápida,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,con,1,Costura interna com remendos wue parecem ser feitos por cima de um tecido semelhante a TNT,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,con,2,Produto de péssima qualidade,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,con,3,Entretando este veio com um remendo na parte interna que ocupa quase toda extensão lateral do mesmo,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+clause,1023808,con,4,Um produto que não serve pra nada,1,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+"clause, 2+ reviews",1023808,pro,1,Produto de ótima qualidade,3,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+"clause, 2+ reviews",1023808,pro,2,Ótimo custo benefício,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+"clause, 2+ reviews",1023808,pro,3,Chegou antes do prazo,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+"clause, 2+ reviews",1023808,pro,4,Entrega rápida,2,right,"Luva Capa Case para Notebook Ultrabook de 15,6 Polegadas"
+2020,1449842,pro,1,Produto muito bom,3,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,pro,2,Otimo produto,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,pro,3,Entrega rápida,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,pro,4,Muito boa,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,con,1,Nao recomendo,1,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,con,2,O pior,1,no_opinion,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,con,3,É ruim,1,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1449842,con,4,3 velocidades,1,no_opinion,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,pro,1,Muito boa,3,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,pro,2,Entrega rápida,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,pro,3,Otimo produto,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,pro,4,Produto muito bom,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,con,1,Eu nao recomento esse produto muito ruim de ma qualidade com poucas semanas o banco deu defeito,1,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,con,2,Nao para mais quando anda estrala inteira péssimo produto eu nao sei como uma marca tao famosa deixa cair tanto a sua qualidade,1,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,con,3,As marchas nao funcionarao adequadamente sem uma regulagem feita numa bicicletaria,1,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+clause,1449842,con,4,Engrenagem fraca sugiro trocar por outra marca,1,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+"clause, 2+ reviews",1449842,pro,1,Muito boa,3,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+"clause, 2+ reviews",1449842,pro,2,Entrega rápida,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+"clause, 2+ reviews",1449842,pro,3,Otimo produto,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+"clause, 2+ reviews",1449842,pro,4,Produto muito bom,2,right,Bicicleta Caloi 21V 100 Sport Aro 26 V-Brake 3x7 - Preto
+2020,1460060,pro,1,Otimo produto,4,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,pro,2,Eu recomendo,4,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,pro,3,Excelente produto,2,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,pro,4,Gostei muito,2,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,con,1,Bem embalado,1,wrong_polarity,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,con,2,Muito fina,1,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,con,3,Entregue antes,1,wrong_polarity,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1460060,con,4,Veio em boa qualidade,1,wrong_polarity,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,pro,1,Eu recomendo,4,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,pro,2,Otimo produto,4,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,pro,3,Atendeu minha necessidade,2,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,pro,4,Fácil de transportar,2,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,con,1,Infelizmente o meu veio com uma das alças quebradas,1,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,con,2,Veio com um acabamento de solda horrível,1,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,con,3,Já entrei em contato com a fábrica,1,no_opinion,Cercado Little Baby Verde com Mosqueteiro - Tubline
+clause,1460060,con,4,Aconteceu algo inaceitável,1,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+"clause, 2+ reviews",1460060,pro,1,Eu recomendo,4,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+"clause, 2+ reviews",1460060,pro,2,Otimo produto,4,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+"clause, 2+ reviews",1460060,pro,3,Atendeu minha necessidade,2,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+"clause, 2+ reviews",1460060,pro,4,Fácil de transportar,2,right,Cercado Little Baby Verde com Mosqueteiro - Tubline
+2020,1465492,pro,1,Excelente produto,9,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,pro,2,Imagem perfeita,7,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,pro,3,Otimo produto,6,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,pro,4,Entrega super rápida,6,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,con,1,Muito boa,1,wrong_polarity,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,con,2,Entrega muito rápida,1,wrong_polarity,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,con,3,Muito lindo,1,wrong_polarity,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1465492,con,4,Nao vale a pena,1,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,pro,1,Excelente produto,10,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,pro,2,Imagem perfeita,8,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,pro,3,Otimo produto,6,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,pro,4,Muito bom,6,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,con,1,A pintura pode sair junto isso aconteceu na minha e estar na assistência desde 02/03 para ver se samsung ira autorizar o concerto um absurdo um acabamento tao ruim num produto tao bom,1,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,con,2,Quando entrei em contato com a sansung ela concordou com a autorizada,1,no_opinion,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,con,3,Me informou que teria de levar para autorizada para avaliar,1,no_opinion,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+clause,1465492,con,4,Liguei na assistência técnica da Samsung,1,no_opinion,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+"clause, 2+ reviews",1465492,pro,1,Excelente produto,10,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+"clause, 2+ reviews",1465492,pro,2,Imagem perfeita,8,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+"clause, 2+ reviews",1465492,pro,3,Otimo produto,6,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+"clause, 2+ reviews",1465492,pro,4,Muito bom,6,right,"Smart TV LED 55"" Samsung UN55J6500AGXZD Full HD Curva 4 HDMI 3 USB 240Hz Wi-Fi"
+2020,1476512,pro,1,Travesseiro muito bom,3,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,pro,2,Entrega rápida,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,pro,3,Produto muito bom,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,pro,4,Super recomendo,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,con,1,Muito fino,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,con,2,Nao gostei,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,con,3,Produto de péssima qualidade,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1476512,con,4,Muito ruim mesmo,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,pro,1,Entrega rápida,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,pro,2,O produto é muito bom,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,pro,3,Travesseiro muito bom,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,pro,4,Gostei muito dos meus travesseros sao firmes nao afunda tudo de bom eu indico comprem,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,con,1,Nao gostei ele é baixo fino nao recomendo ele nem parece que é um travesseiro,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,con,2,Travesseiro altura 8 cm não corresponde a descrição do produto,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,con,3,Chegou amassado ao meio porq veio com durex,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+clause,1476512,con,4,Pensei ate em devolve-los,1,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+"clause, 2+ reviews",1476512,pro,1,Entrega rápida,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+"clause, 2+ reviews",1476512,pro,2,O produto é muito bom,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+"clause, 2+ reviews",1476512,pro,3,Travesseiro muito bom,2,right,Kit 2 Travesseiros Fibrasca Nasa Up3 Viscoelástico C/ Massageador
+2020,1477645,pro,1,Produto bom,3,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,pro,2,Entrega dentro do prazo,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,pro,3,Tudo perfeito,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,pro,4,Sim um presente,2,no_opinion,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,con,1,Muito simples,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,con,2,Existem produtos melhores,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,con,3,O valor pago,2,no_opinion,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1477645,con,4,Um hd,2,no_opinion,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,pro,1,Produto bom,4,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,pro,2,Estou me sentindo muito satisfeita com produto adquirido atendeu todas as minhas necessidades,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,pro,3,Um ótimo desempenho.obrigada comprebel,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,pro,4,O equipamento apesar de ser mais simples atende às necessidades básicas requeridas,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,con,1,Para piorar não tem assistência técnica na baixada santista,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,con,2,Tive um pequeno problema que me rendeu gastos se soubesse não teria comprado,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,con,3,Boa noite o produto feio com defeito estou esperando a troca do produto,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+clause,1477645,con,4,A mb nao servem pra nada o pc é extremamente lento,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,pro,1,Produto bom,4,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,pro,2,Estou me sentindo muito satisfeita com produto adquirido atendeu todas as minhas necessidades,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,pro,3,Um ótimo desempenho.obrigada comprebel,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,pro,4,O equipamento apesar de ser mais simples atende às necessidades básicas requeridas,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,con,1,Para piorar não tem assistência técnica na baixada santista,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,con,2,Tive um pequeno problema que me rendeu gastos se soubesse não teria comprado,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,con,3,Boa noite o produto feio com defeito estou esperando a troca do produto,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+"clause, 2+ reviews",1477645,con,4,A mb nao servem pra nada o pc é extremamente lento,2,right,Computador Desktop Easypc Intel Dual Core 2.41 4gb HD 2tb
+2020,1546836,pro,1,Muito bom,7,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,pro,2,Otimo produto,7,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,pro,3,Otimo custo benefício,7,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,pro,4,Muito boa,5,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,con,1,Pelo preço,1,no_opinion,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,con,2,Uma porcaria,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,con,3,Estou decepcionada,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,1546836,con,4,Nao recomendaria,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,pro,1,Otimo produto,8,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,pro,2,Ótimo custo benefício,6,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,pro,3,Muito bom,6,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,pro,4,Muito boa,5,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,con,1,O pneu dianteiro veio com um defeito defeito de fabricaçao após levado a uma uma bicicletaria melhor da cidade o funcionário detectou uma má formaçao no pneu com defeito de fábrica assim parecendo que o que o aro está desalinhado,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,con,2,No primeiro pedal a catraca começou estralar mesmo realizando a montagem em oficina especializada a mesma constatou que a peça veio com as esferas danificadas,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,con,3,Com menos de um mês de uso já deu defeito em duas peças,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+clause,1546836,con,4,Solicitei devoluçao,1,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+"clause, 2+ reviews",1546836,pro,1,Otimo produto,8,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+"clause, 2+ reviews",1546836,pro,2,Ótimo custo benefício,6,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+"clause, 2+ reviews",1546836,pro,3,Muito bom,6,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+"clause, 2+ reviews",1546836,pro,4,Muito boa,5,right,Bicicleta Caloi Aro 29 21 Marchas Câmbio Shimano Quadro de Alumínio
+2020,2123722,pro,1,Muito bom,6,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,pro,2,Notebook muito bom,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,pro,3,Produto muito bom,2,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,pro,4,Recomendo a todos,2,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,con,1,Muito lento,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,con,2,Trava demais,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,con,3,Nao compraria de novo,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2123722,con,4,Nao recomendo a ninguem,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,pro,1,Muito bom,6,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,pro,2,Atende às minhas necessidades,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,pro,3,Recomendo a todos,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,pro,4,Notebook muito bom,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,con,1,Com cerca de uma semana tive que enviar o computador para sao paulo para assistencia técnica já que nao existe rede de assistencia autorizada,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,con,2,Se eu tivesse lido os comentários nao teria comprado essa porcaria,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,con,3,Sem contar a porcaria que é o win8 que vive apresentando erros,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+clause,2123722,con,4,Membrana de touch nao sei como se chama já veio descolando em um dos cantos,1,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+"clause, 2+ reviews",2123722,pro,1,Muito bom,6,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+"clause, 2+ reviews",2123722,pro,2,Atende às minhas necessidades,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+"clause, 2+ reviews",2123722,pro,3,Recomendo a todos,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+"clause, 2+ reviews",2123722,pro,4,Notebook muito bom,3,right,"Notebook Asus Vivobook S400CA Intel Core I5 4GB 500GB Tela LED 14"" Windows 8 Touch Screen - Cinza Chumbo"
+2020,2638803,pro,1,Produto muito bom,3,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,pro,2,Excelente qualidade de imagem,2,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,pro,3,Acesso a internet,2,no_opinion,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,pro,4,Quanto a facilidade de uso,2,no_opinion,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,con,1,O produto é ótimo,1,wrong_polarity,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,con,2,Fora isso,1,no_opinion,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,con,3,Muito ruim,1,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2638803,con,4,Em resumo,1,no_opinion,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,pro,1,O produto é muito bom,4,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,pro,2,Bom produto,3,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,pro,3,Bons recursos,2,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,pro,4,A qualidade de imagem é excelente,2,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,con,1,Menos tres meses nao acessa mais falou para copiar o novo dwollond no pen drave mais naop adiantou nada estou sem poder navegar na internet,1,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,con,2,O produto ja apresentou 2 falhas intermitentes precisou ser desligado para voltar a funcionar,1,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,con,3,Por problemas de defeito de projeto da samsung tv 40 lcd que após a garantia os capacitores da fonte se rompem,1,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+clause,2638803,con,4,Fica travado no mesmo canal independente de se efetuar troca o que nao é nada agradavel,1,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+"clause, 2+ reviews",2638803,pro,1,O produto é muito bom,4,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+"clause, 2+ reviews",2638803,pro,2,Bom produto,3,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+"clause, 2+ reviews",2638803,pro,3,Bons recursos,2,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+"clause, 2+ reviews",2638803,pro,4,A qualidade de imagem é excelente,2,right,"TV 46"" LED Full HD 46PFL6615 Ambilight C/ Decodificador TV Digital (DTV), Acesso a Internet (Online TV), Interatividade Emissoras TV (DTVi), DLNA, USB, 120Hz - Philips"
+2020,2641157,pro,1,Enxuga muito bem,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,pro,2,AS toalhas sao grandes,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,pro,3,Nao soltam felpas,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,pro,4,Vou comprar mais,2,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,con,1,Nao recomendo,6,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,con,2,Nao gostei,4,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,con,3,Péssimo produto,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641157,con,4,Solta muito fiapo,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,pro,1,Muito bonito,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,pro,2,As toalhas sao lindas,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,pro,3,São maravilhosas,2,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,pro,4,Enxuga muito bem,2,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,con,1,Nao recomendo,6,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,con,2,Nao gostei,4,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,con,3,Péssimo produto,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+clause,2641157,con,4,Solta muito fiapo,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,pro,1,Muito bonito,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,pro,2,As toalhas sao lindas,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,pro,3,São maravilhosas,2,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,pro,4,Enxuga muito bem,2,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,con,1,Nao recomendo,6,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,con,2,Nao gostei,4,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,con,3,Péssimo produto,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+"clause, 2+ reviews",2641157,con,4,Solta muito fiapo,3,right,Jogo de Super Banho Europa 5 Peças - Casa & Conforto
+2020,2641467,pro,1,Produto muito bom,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,pro,2,Muito boa,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,pro,3,Recomendo o produto,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,pro,4,O material é de boa qualidade,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,con,1,Mateial ruim,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,con,2,Pintura malfeita,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,con,3,Muito fraca não comprem se quiser compra a minha que vendo mais batao,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2641467,con,4,A entrega foi muito rápida,1,wrong_polarity,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,pro,1,Meus filhos adoraram,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,pro,2,Satisfeitissima como sempre,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,pro,3,Entrega sempre no prazo,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,pro,4,Meu filho adorou o presente,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,con,1,Muito fraca não comprem se quiser compra a minha que vendo mais batao,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,con,2,Somente os pedais um pouco fracos,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,con,3,Mateial ruim,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+clause,2641467,con,4,Estou tentando entrar em contato com a oceano bike conforme a orientaçao contida no manual da bicicleta,1,no_opinion,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,pro,1,Meus filhos adoraram,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,pro,2,Satisfeitissima como sempre,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,pro,3,Entrega sempre no prazo,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,pro,4,Meu filho adorou o presente,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,con,1,Muito fraca não comprem se quiser compra a minha que vendo mais batao,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,con,2,Somente os pedais um pouco fracos,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+"clause, 2+ reviews",2641467,con,3,Mateial ruim,2,right,Bicicleta Oceano Braunn Aro 26 com Dupla Suspensão e 18 Marchas - Prata - Oceano
+2020,2649076,pro,1,Otimo produto,11,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,pro,2,Excelente produto,7,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,pro,3,Entrega super rápida,7,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,pro,4,Otima TV,7,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,con,1,No mais,1,no_opinion,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,con,2,Tudo ótimo,1,wrong_polarity,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,con,3,Parou de funcionar,1,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2649076,con,4,Fiquei muito triste,1,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,pro,1,Otimo produto,13,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,pro,2,Excelente TV,8,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,pro,3,Otima TV,7,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,pro,4,Recomendo a todos,5,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,con,1,Até onde o sinal é fraco,2,wrong_polarity,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,con,2,Nao tem muito grave,2,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,con,3,Troca de canal rápido,2,wrong_polarity,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+clause,2649076,con,4,Os parafusos indicados m8 nao entra na rosca creio que seja defeito da rosca,1,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,pro,1,Otimo produto,13,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,pro,2,Excelente TV,8,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,pro,3,Otima TV,7,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,pro,4,Recomendo a todos,5,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,con,1,Até onde o sinal é fraco,2,wrong_polarity,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,con,2,Nao tem muito grave,2,right,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+"clause, 2+ reviews",2649076,con,3,Troca de canal rápido,2,wrong_polarity,"Smart TV 3D LED 40” Full HD Samsung 40FH6203 com Função Futebol, Clear Motion Rate 240Hz, Wi-Fi e 2 Óculos 3D"
+2020,2652735,pro,1,Bom produto,4,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,pro,2,Minha filha amou,4,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,pro,3,Excelente produto,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,pro,4,Entrega rápida,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,con,1,Outra coisa,2,no_opinion,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,con,2,Propaganda enganosa,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,con,3,Totalmente insatisfeito com o produto,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2652735,con,4,Do banco,2,no_opinion,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,pro,1,Minha filha amou,4,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,pro,2,Bom produto,4,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,pro,3,Muito bom minha filha adorou,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,pro,4,Minha família adorou,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,con,1,O mais frustrante foi não poder dar esse presente no dia do Natal para minha filha,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,con,2,Além disso os suportes das rodinhas vieram totalmente tortos,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,con,3,Disseram que a foto é meramente ilustrativa,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+clause,2652735,con,4,Fazendo com que o pneu traseiro ficasse aproximadamente dois centímetros do chão,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,pro,1,Minha filha amou,4,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,pro,2,Bom produto,4,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,pro,3,Muito bom minha filha adorou,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,pro,4,Minha família adorou,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,con,1,O mais frustrante foi não poder dar esse presente no dia do Natal para minha filha,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,con,2,Além disso os suportes das rodinhas vieram totalmente tortos,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,con,3,Disseram que a foto é meramente ilustrativa,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+"clause, 2+ reviews",2652735,con,4,Fazendo com que o pneu traseiro ficasse aproximadamente dois centímetros do chão,2,right,"Bicicleta Aro 26 Mongoose Xtreme Comp com 21 Marchas e Suspensão Dianteira, Azul - Tamanho 21"
+2020,2661596,pro,1,Muito bom,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,pro,2,Gostei muito,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,pro,3,Entao nao tenho o que reclamar,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,pro,4,Já sabia que não era um excelente produto por ser 100 % poliéster,2,no_opinion,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,con,1,Nao recomendo,3,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,con,2,Péssimo produto,1,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,con,3,Veio tudo certinho,1,wrong_polarity,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2661596,con,4,Péssima compra,1,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,pro,1,Gostei muito,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,pro,2,Muito bom,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,pro,3,Gostei muito ficou ótimo na minha cama o preço tbm tava ótimo quero mais,1,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,pro,4,Gostei muito o preço esta bem em conta Eu recomendo,1,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,con,1,Nao recomendo,3,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,con,2,Já sabia que nao era um excelente produto por ser 100 % poliéster,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,con,3,Porém quando abri a embalagem constatei que o produto real nao tem nada a ver com a foto,1,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+clause,2661596,con,4,Nunca compre um produto tao ruim na loja,1,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+"clause, 2+ reviews",2661596,pro,1,Gostei muito,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+"clause, 2+ reviews",2661596,pro,2,Muito bom,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+"clause, 2+ reviews",2661596,con,1,Nao recomendo,3,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+"clause, 2+ reviews",2661596,con,2,Já sabia que nao era um excelente produto por ser 100 % poliéster,2,right,Jogo de Cama Queen Liz 4 Peças - Corttex
+2020,2678676,pro,1,O produto é de boa qualidade,3,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,pro,2,Excelente produto,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,pro,3,Produto bom,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,pro,4,Gostei do produto,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,con,1,Tentei devolver,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,con,2,Nao gostei,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,con,3,Péssima qualidade,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2678676,con,4,Nao indico,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,pro,1,Muito boa ótima qualidade preço pontualidade seriedade,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,pro,2,Qualidade do produto superou as espectativas,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,pro,3,Bom custo benefício,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,pro,4,Maravilhosa minha bota eu amei,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,con,1,Tentei devolver,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,con,2,Material péssimo,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,con,3,Nao gostei,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+clause,2678676,con,4,Horrível fiz a decoraçao material de péssima qualidade,1,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+"clause, 2+ reviews",2678676,con,1,Tentei devolver,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+"clause, 2+ reviews",2678676,con,2,Material péssimo,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+"clause, 2+ reviews",2678676,con,3,Nao gostei,2,right,Bota Montaria Feminina Cano Longo C/ Cadarço Salto Médio Khaata Metalassê Capuccino
+2020,2687489,pro,1,Entrega super rápida,5,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,pro,2,Muito bom,4,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,pro,3,Produto de ótima qualidade,4,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,pro,4,Entrega rápida,3,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,con,1,É espaçoso,1,wrong_polarity,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,con,2,O custo benefício nao valeu a pena,1,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,con,3,Acho que poderia ter mais pratilheira,1,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2687489,con,4,Como se houvesse molhado,1,no_opinion,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,pro,1,Muito bom,5,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,pro,2,Entrega super rápida,4,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,pro,3,Produto de ótima qualidade,4,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,pro,4,Entrega rápida,3,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,con,1,Material muito fraco portas vieram sem furaçao em algumas puxadores ruins,1,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,con,2,Qdo a gaveta caii no chao já quebrou um dos encaixes,1,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,con,3,Nao cabe meus cabides horrível,1,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+clause,2687489,con,4,O teto que é branco internamente veio com manchas escuras cinzentas,1,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+"clause, 2+ reviews",2687489,pro,1,Muito bom,5,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+"clause, 2+ reviews",2687489,pro,2,Entrega super rápida,4,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+"clause, 2+ reviews",2687489,pro,3,Produto de ótima qualidade,4,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+"clause, 2+ reviews",2687489,pro,4,Entrega rápida,3,right,Guarda-roupa Casal 6 Portas 2 Gavetas Madesa - Vip 1669
+2020,2694501,pro,1,Super recomendo,8,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,pro,2,Ótimo custo benefício,6,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,pro,3,Fácil montagem,5,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,pro,4,Produto de boa qualidade,4,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,con,1,Nao recomendo,1,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,con,2,Produto de baixa qualidade,1,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,con,3,Sempre compro na loja,1,no_opinion,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2694501,con,4,Muito decepcionada,1,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,pro,1,Super recomendo,8,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,pro,2,Fácil montagem,7,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,pro,3,Ótimo custo benefício,6,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,pro,4,Chegou antes do prazo,3,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,con,1,Nao quis acionar a devoluçao por perceber que só foi em uma peça mesmo,1,no_opinion,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,con,2,Produto é de muita baixa qualidade Manual de montagem é totalmente sem sentido já veio com varias arranhoes,1,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,con,3,Em um mês já apresentou várias rachaduras na estrutura,1,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+clause,2694501,con,4,Nao vale a pena,1,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+"clause, 2+ reviews",2694501,pro,1,Super recomendo,8,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+"clause, 2+ reviews",2694501,pro,2,Fácil montagem,7,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+"clause, 2+ reviews",2694501,pro,3,Ótimo custo benefício,6,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+"clause, 2+ reviews",2694501,pro,4,Chegou antes do prazo,3,right,Rack para TV Até 50” com Mesa de Centro - e Aparador Multimóveis Star
+2020,2695517,pro,1,Muito bom,10,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,pro,2,Produto muito bom,10,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,pro,3,Otimo produto,9,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,pro,4,Excelente aparelho,7,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,con,1,Comprei o produto,1,no_opinion,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,con,2,Solicitei a troca,1,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,con,3,Para minha surpresa,1,no_opinion,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695517,con,4,Ótima bateria,1,wrong_polarity,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,pro,1,Otimo produto,10,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,pro,2,Muito bom,9,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,pro,3,Produto muito bom,9,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,pro,4,Excelente aparelho,7,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,con,1,Espero que nao seja nada demais NAO TO AFIM DE ACIONAR GARANTIA,1,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,con,2,Toda vez que reinicia aparece o seu logo,1,no_opinion,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,con,3,Ao formatar simplesmente formatar ele travava logo de cara na conexao de wifi para configuraçao a mesma citada acima,1,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+clause,2695517,con,4,Nas ligaçoes a outra parte nao consegue me ouvir,1,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+"clause, 2+ reviews",2695517,pro,1,Otimo produto,10,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+"clause, 2+ reviews",2695517,pro,2,Muito bom,9,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+"clause, 2+ reviews",2695517,pro,3,Produto muito bom,9,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+"clause, 2+ reviews",2695517,pro,4,Excelente aparelho,7,right,Smartphone Samsung A5 2016 Duos 16GB Preto - Dual Chip 4G Câm.13MP + Selfie 5MP Tela 5.2”
+2020,2695634,pro,1,Entrega rápida,3,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,pro,2,Muito bom,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,pro,3,Produto de ótima qualidade,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,pro,4,Produto atendeu as expectativas,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,con,1,Parou de funcionar,1,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,con,2,Nao uso todos os dias,1,no_opinion,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,con,3,Ele deu um estouro,1,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2695634,con,4,Agora porem,1,no_opinion,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,pro,1,Entrega rápida,3,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,pro,2,Superou a expectativa,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,pro,3,Produto de ótima qualidade,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,pro,4,Muito bom,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,con,1,Nao consegui testar ainda poiso pino da tomada do secador nao encaixa em nenhuma dos 5 tipos de tomadas que tenho em casa,1,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,con,2,Ele tenha um pequeno defeito de quando se coloca na velocidade baixa,1,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,con,3,Parou de funcionar,1,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+clause,2695634,con,4,Veio com defeito a troca foi imediata,1,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+"clause, 2+ reviews",2695634,pro,1,Entrega rápida,3,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+"clause, 2+ reviews",2695634,pro,2,Superou a expectativa,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+"clause, 2+ reviews",2695634,pro,3,Produto de ótima qualidade,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+"clause, 2+ reviews",2695634,pro,4,Muito bom,2,right,Secador de Cabelo Philco Cherry - 2100W 2 Velocidades
+2020,2739797,pro,1,Superou minhas expectativas,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,pro,2,Bom preço,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,pro,3,Muito bom,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,pro,4,Super recomendo,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,con,1,Devolvi o produto,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,con,2,Nao comprem,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,con,3,Até agora nada,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2739797,con,4,Produto com defeito,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,pro,1,Superou minhas expectativas,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,pro,2,Bom preço,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,pro,3,Leve muito bonito eu recomendaria supriu minhas expectativas,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,pro,4,Recomendo a todos vale a pena,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,con,1,Sem selo da anatel,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,con,2,Devolvi o produto,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,con,3,Produto veio com defeito com 86 % de carga mesmo assim nao ligava só ligava com carregador conectado,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+clause,2739797,con,4,Ele demorar mais de 30 pra voltar pra transportadora pra eu abrir protocolo de devoluçao,1,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+"clause, 2+ reviews",2739797,pro,1,Superou minhas expectativas,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+"clause, 2+ reviews",2739797,pro,2,Bom preço,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+"clause, 2+ reviews",2739797,con,1,Sem selo da anatel,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+"clause, 2+ reviews",2739797,con,2,Devolvi o produto,2,right,"Smartphone Motorola Moto E4 Dual Chip Android 7.1.1 Nougat Tela 5"" Quad-Core 1.3GHz 16GB 4G Câmera 8MP - Azul Safira"
+2020,2743439,pro,1,Super recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,pro,2,Gostei muito,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,pro,3,Eu recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,pro,4,Produto de ótima qualidade,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,con,1,Nao recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,con,2,Nao gostei,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,con,3,Antes da data prevista,2,wrong_polarity,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,2743439,con,4,Muito triste,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,pro,1,Fácil manuseio,3,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,pro,2,Super recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,pro,3,Antes da data prevista,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,pro,4,Eu recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,con,1,Começar o processo de assistência técnica,2,no_opinion,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,con,2,Porém veio cheio de defeito,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,con,3,Nao recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+clause,2743439,con,4,Veio com defeito,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,pro,1,Fácil manuseio,3,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,pro,2,Super recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,pro,3,Antes da data prevista,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,pro,4,Eu recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,con,1,Começar o processo de assistência técnica,2,no_opinion,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,con,2,Porém veio cheio de defeito,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,con,3,Nao recomendo,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+"clause, 2+ reviews",2743439,con,4,Veio com defeito,2,right,Som Portátil Multilaser SP157 Boombox 20W RMS USB Dock Station para IPhone e IPod
+2020,18532995,pro,1,Muito prático,5,right,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,pro,2,Produto excelente,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,pro,3,Otimo custo benefício,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,pro,4,Desliga sozinho,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,con,1,Nao comprem,1,right,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,con,2,Vou comprar outra,1,no_opinion,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,con,3,A garantia,1,no_opinion,Chaleira Elétrica 1L Branca 220V Cadence
+2020,18532995,con,4,Zona sul,1,no_opinion,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,pro,1,Muito pratico,5,right,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,pro,2,Ótimo produto,4,right,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,pro,3,Otimo custo benefício,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,pro,4,Produto excelente,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,con,1,Desliga sozinho,2,wrong_polarity,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,con,2,Comprei essa ultima pra levar comigo para qqer lugar que eu vá,2,no_opinion,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,con,3,Resumindo foi dinheiro jogado fora,1,right,Chaleira Elétrica 1L Branca 220V Cadence
+clause,18532995,con,4,Não vale a pena arrumar,1,right,Chaleira Elétrica 1L Branca 220V Cadence
+"clause, 2+ reviews",18532995,pro,1,Muito pratico,5,right,Chaleira Elétrica 1L Branca 220V Cadence
+"clause, 2+ reviews",18532995,pro,2,Ótimo produto,4,right,Chaleira Elétrica 1L Branca 220V Cadence
+"clause, 2+ reviews",18532995,pro,3,Otimo custo benefício,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+"clause, 2+ reviews",18532995,pro,4,Produto excelente,3,right,Chaleira Elétrica 1L Branca 220V Cadence
+"clause, 2+ reviews",18532995,con,1,Desliga sozinho,2,wrong_polarity,Chaleira Elétrica 1L Branca 220V Cadence
+"clause, 2+ reviews",18532995,con,2,Comprei essa ultima pra levar comigo para qqer lugar que eu vá,2,no_opinion,Chaleira Elétrica 1L Branca 220V Cadence
+2020,789660,pro,1,Muito bom,55,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,pro,2,Produto muito bom,54,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,pro,3,Otimo produto,47,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,pro,4,Entrega rápida,36,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,con,1,Nao recomendo,3,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,con,2,Muito lento,3,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,con,3,A entrega foi bem rápida,2,wrong_polarity,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+2020,789660,con,4,Me arrependi,2,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,pro,1,Muito bom,62,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,pro,2,Otimo produto,54,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,pro,3,Produto muito bom,46,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,pro,4,Entrega rápida,38,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,con,1,Não recomendo,4,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,con,2,Achei um pouco lento,3,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,con,3,Não recomendo o produto além de ser muito lento sem nenhum programa de Peso instalado,2,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+clause,789660,con,4,O hd deu problema é samsung não se dispões a solucionar o problema,2,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,pro,1,Muito bom,62,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,pro,2,Otimo produto,54,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,pro,3,Produto muito bom,46,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,pro,4,Entrega rápida,38,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,con,1,Não recomendo,4,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,con,2,Achei um pouco lento,3,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,con,3,Não recomendo o produto além de ser muito lento sem nenhum programa de Peso instalado,2,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"
+"clause, 2+ reviews",789660,con,4,O hd deu problema é samsung não se dispões a solucionar o problema,2,right,"Notebook Samsung Expert X23 15.6'', 8GB, 1TB, Placa Gráfica Dedicada 2GB e Intel Core I5 NP300E5K-XO"

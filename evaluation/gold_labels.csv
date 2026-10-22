@@ -1,0 +1,658 @@
+group_id,kind,clause,label
+67038,con,Atendeu minha necessidade,wrong_polarity
+67038,con,Me arrependi muito,right
+67038,con,Nao teria comprado,right
+67038,con,É lamentável,right
+67038,con,Nao recebi o produto comprado a quase 2 meses,right
+67038,con,Triste ver a WAP fazendo algo tao pobre,right
+67038,con,Muito barulhento um barulho irritante não gostei deveria ser silencioso,right
+67038,con,Nao adianta ele continua soltando pó pela parte traseira,right
+67038,pro,Muito bom,right
+67038,pro,Super recomendo,right
+67038,pro,Otimo produto,right
+67038,pro,Produto excelente,right
+67038,pro,Aspira muito bem,right
+67038,pro,Ótimo produto,right
+118781,con,Somente a tampa que acho deveriam pensar no jeito de não esquentar por igual,right
+118781,con,No entanto,no_opinion
+118781,con,Estou decepcionada,right
+118781,con,Tudo mais,no_opinion
+118781,con,O atendimento do sac é pessimo apenas disse não podem fazer nada,right
+118781,con,Quando mando msg tentando entrar em contando eles me respondem com aqueles e-mails automáticos,right
+118781,con,Uma loja parceira muito ruim que vendo produtos sem ter em estoque para entregar aos clientes consulte o reclame aqui antes de fazer uma compra deste parceiro da loja,right
+118781,pro,Otimo produto,right
+118781,pro,Super recomendo,right
+118781,pro,Recomendo a todos,right
+118781,pro,Produto de ótima qualidade,right
+118781,pro,Otima qualidade,right
+119754,con,Nao recomendo,right
+119754,con,Eu tenho,no_opinion
+119754,con,Me arrependi,right
+119754,con,O pior,no_opinion
+119754,con,Não recomendo,right
+119754,con,Esperar de 1 a 2 meses pelo estorno do dinheiro,right
+119754,con,Ligar pra lá pedir o cancelamento do pedido,no_opinion
+119754,con,Com menos de 3 meses já é a segunda vez que tenho que dar reparo,right
+119754,pro,Super recomendo,right
+119754,pro,Otimo produto,right
+119754,pro,Muito boa,right
+119754,pro,Excelente produto,right
+185861,con,Sai pouca névoa,right
+185861,con,Uma eternidade para fazer uma inalaçao com 5 ml de soro,right
+185861,con,Nao recomendo,right
+185861,con,Nao comprem,right
+185861,con,"Loja já me passou todos os procedimentos,e a troca também será feita.nao recomendo inalador nebulizador portátil bivolt-medicate por nao ligar, o aparelho em primeiro teste já nem funcionou que situaçao.",right
+185861,con,Ele chegou com defeito nunca mais compro nessa loja,right
+185861,pro,Entrega super rápida,right
+185861,pro,Produto muito bom,right
+185861,pro,Otimo produto,right
+185861,pro,Excelente produto,right
+185861,pro,A entrega foi super rápida,right
+185861,pro,O produto é ótimo,right
+185861,pro,É um ótimo produto,right
+246356,con,Nao dá segurança nenhuma,right
+246356,con,Otimo produto,wrong_polarity
+246356,con,Entrega antes do prazo,wrong_polarity
+246356,con,Boa noite,no_opinion
+246356,con,Troca de lâmpadas,no_opinion
+246356,con,Comprei o produto pela internet a primeira compra o acabamento do degrau na parte de fora todo trincado cheio de pontos q podem cortar a mão da pessoa que vai montar ou manusear a mesma sinalizei para a loja virtual este detalhes do acabamento pessimo nada foi feito recebi uma outra escada igual,right
+246356,con,Os pes de borrachas vermelhas veio manchado/sujo de graxa de zero a dez minha nota é oito,right
+246356,con,Infelizmente quando fui abrir a embalagem estava com um degrau amassado,right
+246356,pro,Produto muito bom,right
+246356,pro,Otimo produto,right
+246356,pro,Excelente produto,right
+246356,pro,Muito bom,right
+269319,con,Nao comprem,right
+269319,con,Nao recomendo o produto,right
+269319,con,Nao compraria novamente,right
+269319,con,Pense bem,right
+269319,con,Após esse tempo de uso onde claro a garantia acaba começa a dor de cabeça,right
+269319,con,A opçao umidificar mesmo colocando gelo sinceramente nao resfria o ambiente,right
+269319,pro,Produto muito bom,right
+269319,pro,Excelente produto,right
+269319,pro,Nao é um ar condicionado,no_opinion
+269319,pro,Muito bom,right
+269319,pro,Atendeu às minhas expectativas,right
+269319,pro,Entrega rápida,right
+293640,con,Nao recomendo,right
+293640,con,Joguei dinheiro fora,right
+293640,con,Danifiquei a embalagem,no_opinion
+293640,con,"Eu estou atrás de umas de 1,5 v",no_opinion
+293640,con,Não recomendo,right
+293640,con,"Podiam ter avisado que eram pilhas de 1,2 v",right
+293640,con,Só não mando de volta,no_opinion
+293640,pro,Ótimo custo benefício,right
+293640,pro,Produto muito bom,right
+293640,pro,Tudo perfeito,right
+293640,pro,Gostei da rapidez da entrega,right
+293640,pro,Ótimo custo/benefício,right
+293640,pro,Excelente produto,right
+340272,con,Não recebi o produto,right
+340272,con,Decepção total,right
+340272,con,No caso,no_opinion
+340272,con,Até a presente data,no_opinion
+340272,con,"Cumpre o que promete só não gostei da loja. o produto veio sem ser embalado, com cx amassada e produto riscado... decepção total.. Loja tinha parcerias melhores",right
+340272,con,Se fosse uma gaveta n teria problema,no_opinion
+340272,pro,Fácil de limpar,right
+340272,pro,Super Recomendo,right
+340272,pro,Gostei muito do produto,right
+340272,pro,Muito bom,right
+340272,pro,Super recomendo,right
+340272,pro,Superou minhas expectativas,right
+340272,pro,Cumpre o que promete,right
+438988,con,No mais,no_opinion
+438988,con,Ainda assim,no_opinion
+438988,con,O box,no_opinion
+438988,con,Desta forma,no_opinion
+438988,con,Rasga a toa,right
+438988,con,Também venho para reclamar sobre o produto ter vindo com defeito,right
+438988,con,A capa do box veio rasgada,right
+438988,con,De descobrir o que virá em seguida,wrong_polarity
+438988,pro,Muito bom,right
+438988,pro,Entrega rápida,right
+438988,pro,Super recomendo,right
+438988,pro,Entrega super rápida,right
+570884,con,Nao consegui,no_opinion
+570884,con,Como a minha,no_opinion
+570884,con,Depois de 1 ano,no_opinion
+570884,con,Nao conseguiu,no_opinion
+570884,con,Outro problema que nao gostei foi ao utilizar o suporte hp meu produto se encontrava fora de garantia isso me deixou meio grilado se,right
+570884,con,Nao gostei da qualidade do produto peças de junçao mal encaixadas pela aparência poderia ter uma montagem melhor,right
+570884,con,Ontem do nada apareceu um erro na cabeça de impressão,right
+570884,con,Assim ela nao imprime de qualquer um que mandar arquivos na conta de e-mail,right
+570884,pro,Excelente produto,right
+570884,pro,Otimo custo benefício,right
+570884,pro,Muito bom,right
+570884,pro,Produto excelente,right
+570884,pro,De fácil manuseio,right
+570884,pro,Ótimo custo benefício,right
+570884,pro,Ótimo Produto,right
+601133,con,Nao recomendo,right
+601133,con,Atendeu minhas expectativas,wrong_polarity
+601133,con,Produto de baixa qualidade,right
+601133,con,Produto frágil,right
+601133,con,Produto de péssima qualidade na primeira vez em uso já está com sinais de ferrugem,right
+601133,con,Tres usada ja estavo totalmente enferrujado nao recomendo,right
+601133,con,Deixei meu dinheiro jogado no armário,right
+601133,con,Material com inox mau acabado de péssima qualidade,right
+601133,pro,Muito bom,right
+601133,pro,Muito bonito,right
+601133,pro,Excelente produto,right
+601133,pro,Gostei muito,right
+611557,con,Está na assistencia técnica para análise,right
+611557,con,Ainda não pode ser testado pq a descrição do produto omite que os pinos da tomada são de bitola maior que a usual,right
+611557,con,Desde o começo notei que não esquentava muito,right
+611557,con,Quase não saia vapor,right
+611557,pro,Muito bom,right
+611557,pro,Otimo produto,right
+611557,pro,Cumpre o que promete,right
+611557,pro,Ferro muito bom,right
+611557,pro,Produto excelente,right
+621960,con,Nao gostei da compra,right
+621960,con,Nao recomendo para recém nascido,right
+621960,con,Comecei a usar bem,no_opinion
+621960,con,Comprei o produto com meu bebê ainda bem novinho,no_opinion
+621960,con,Eles ficam c a cabeça caindo pro lado,right
+621960,con,Funçao de vibrar nao funcionou,right
+621960,con,Não gostei da compra,right
+621960,con,Rápida o produto que nao vale a pena,right
+621960,pro,Entrega super rápida,right
+621960,pro,Chegou antes do prazo,right
+621960,pro,Qualidade boa,right
+621960,pro,Entrega muito rapida,right
+621960,pro,A entrega muito rápida,right
+621960,pro,Gostei da compra,right
+629563,con,Segundo o técnico,no_opinion
+629563,con,Pouco tempo de uso,no_opinion
+629563,con,O espelho,no_opinion
+629563,con,Nao sei o porquê,no_opinion
+629563,con,A assistência técnica diz que demora até 30 dias pra arrumar,right
+629563,con,Logo depois de montada começou a apresentar barulho no movimento central cartridge,right
+629563,con,Tive que levar a bicicleta a assistência técnica para verificar,right
+629563,con,Vou consultar a assistência técnica,no_opinion
+629563,pro,Entrega super rápida,right
+629563,pro,Entrega rápida,right
+629563,pro,Produto muito bom,right
+629563,pro,Produto de excelente qualidade,right
+629563,pro,É muito bonita,right
+630204,con,Faz muito barulho,right
+630204,con,Comprei o produto,no_opinion
+630204,con,Apena na ponta muito fraco,right
+630204,con,Nao recomendo a compra desde aparelho,right
+630204,con,No mesmo dia que chegou quebrou a barra de cima uma porcaria ela é encaixada apenas por dois parafusos que vem em um tubo oco,right
+630204,con,Ainda não consegui aprender a mexer no monitor,right
+630204,con,Muito ruim,right
+630204,pro,Fácil de montar,right
+630204,pro,Muito bom,right
+630204,pro,Produto muito bom,right
+630204,pro,Entrega super rápida,right
+630204,pro,Eu recomendo,right
+630204,pro,Gostei muito,right
+639740,con,Nao gostei,right
+639740,con,Muito fraco,right
+639740,con,É muito barulhento,right
+639740,con,Nao atendeu minhas expectativas,right
+639740,con,Não gostei,right
+639740,con,Devolvi o produto ate hoje nao recebi vale troca,right
+639740,pro,Produto muito bom,right
+639740,pro,Muito bom,right
+639740,pro,Otimo produto,right
+639740,pro,Entrega rápida,right
+639740,pro,Ótimo produto,right
+651303,con,Péssima qualidade,right
+651303,con,Nao recomendo,right
+651303,con,Nao gostei,right
+651303,con,Muito fraco,right
+651303,con,Agora a mala media 23 veio toda torta as rodas totalmente torta visualmente as rodas tinha que ficar centralizadas mais veio totalmente para a direita ainda nem usei ta com etiqueta,right
+651303,con,Devolvi o produto para substituiçao por apresentar vários defeitos de fabricaçao,right
+651303,con,O produto deixou a desejar a mala m veio com defeito já rasgada um pouco que pena a primeira compra que fiz que fiquei insatisfeita,right
+651303,pro,Eu recomendo,right
+651303,pro,Vale a pena,right
+651303,pro,Atendeu minhas expectativas,right
+651303,pro,Ótima qualidade,right
+651303,pro,Custo beneficio excelente,right
+651303,pro,Bastante resistentes podem comprar que vcs nao vao se arrepender,right
+651303,pro,Adorei foi umas das melhores compra que fiz pela internet elas sao espaçosas mesmo,right
+656139,con,Nao recomendo,right
+656139,con,Muito ruim,right
+656139,con,A qualidade,no_opinion
+656139,con,O som,no_opinion
+656139,con,Recebe adesivos para decorar a tv.isso sim é respeito pelo consumidor,wrong_polarity
+656139,con,Digo isso em referência a canais analógicos,no_opinion
+656139,con,O que deixa o som péssimo parecendo de rádio de pilha,right
+656139,pro,Entrega rápida,right
+656139,pro,Otimo custo benefício,right
+656139,pro,Imagem muito boa,right
+656139,pro,Excelente produto,right
+656139,pro,Imagem excelente,right
+656139,pro,Ótimo custo beneficio,right
+657609,con,Nao recomendo,right
+657609,con,Nao gostei,right
+657609,con,Por exemplo,no_opinion
+657609,con,Muito ruim,right
+657609,con,Me decepcionei,right
+657609,con,Nao tem tv,right
+657609,pro,Muito bom,right
+657609,pro,Excelente produto,right
+657609,pro,Produto muito bom,right
+657609,pro,Gostei muito,right
+657609,pro,Fácil de usar,right
+679390,con,Nao liga,right
+679390,con,Nao recomendo,right
+679390,con,Comprei o produto,no_opinion
+679390,con,Nao compraria de novo,right
+679390,con,No final do ano passado o aparelho parou de funcionar,right
+679390,con,Não compraria de novo,right
+679390,con,Desde o ano passado não carrega mais,right
+679390,pro,Produto muito bom,right
+679390,pro,Fácil de usar,right
+679390,pro,Recomendo o produto,right
+679390,pro,Super prático,right
+679390,pro,Super recomendo,right
+684660,con,Nao recomendo,right
+684660,con,Uma pena,right
+684660,con,Nao compre,right
+684660,con,A bateria dura muito pouco,right
+684660,con,Nao recomendo à ninguém,right
+684660,con,Deveria ser tipo tampa emborrachada,right
+684660,pro,Muito bom,right
+684660,pro,Aparelho muito bom,right
+684660,pro,Otimo produto,right
+684660,pro,Produto muito bom,right
+684660,pro,O aparelho é muito bom,right
+684660,pro,Entrega rápida,right
+725383,con,Nao recomendo,right
+725383,con,Veio com defeito,right
+725383,con,Péssimo produto,right
+725383,con,Trava muito,right
+725383,con,Não recomendo,right
+725383,con,Muito ruim,right
+725383,pro,Muito bom,right
+725383,pro,Fácil de usar,right
+725383,pro,Ela adorou,right
+725383,pro,Entrega rápida,right
+725383,pro,Ótimo produto,right
+725383,pro,Produto bom,right
+761201,con,Nao comprem,right
+761201,con,Me arrependi,right
+761201,con,Nao recomento,right
+761201,con,Já quebrou,right
+761201,con,Nao gostei comprei este carrinho faz 15 dias as rodinhas nao rodam é horrível nao deslisa trava nao roda,right
+761201,con,A assistência técnica nao facilita em nenhum momento outro tipo de avaliaçao há nao ser de nós consumidores levar o produto ate eles,right
+761201,con,Agora tenho que sair de casa ir ate a assistência técnica pra arrumar muito trabalho comprar coisa barata é isso que da,right
+761201,con,Eu gostaria de deixar aqui meu apelo nao compre esse produto,right
+761201,pro,Entrega rápida,right
+761201,pro,Muito bom,right
+761201,pro,Produto muito bom,right
+761201,pro,Entrega super rápida,right
+761201,pro,Recomendo a todos,right
+789660,con,Nao recomendo,right
+789660,con,Muito lento,right
+789660,con,A entrega foi bem rápida,wrong_polarity
+789660,con,Me arrependi,right
+789660,con,Não recomendo,right
+789660,con,Achei um pouco lento,right
+789660,con,Não recomendo o produto além de ser muito lento sem nenhum programa de Peso instalado,right
+789660,con,O hd deu problema é samsung não se dispões a solucionar o problema,right
+789660,pro,Muito bom,right
+789660,pro,Produto muito bom,right
+789660,pro,Otimo produto,right
+789660,pro,Entrega rápida,right
+791450,con,Nao recomendo,right
+791450,con,Nao comprem,right
+791450,con,Por exemplo,no_opinion
+791450,con,Nao compre,right
+791450,con,O pior assistencia tecnica só em sao paulo,right
+791450,con,Para piorar essa semana o celular começou a desligar sozinho,right
+791450,con,A alguns dias começou a desligar sozinho,right
+791450,pro,Nao trava,right
+791450,pro,Super recomendo,right
+791450,pro,Muito bom,right
+791450,pro,Produto excelente,right
+791758,con,Para mim,no_opinion
+791758,con,Decepçao total,right
+791758,con,Só tem um problema,no_opinion
+791758,con,Impossível ouvir,right
+791758,con,Lamentável a philips nao ter esse recurso,right
+791758,con,Agora terei que levar até a assistência na cidade próxima,right
+791758,con,Ele só toca o aparelho a base nao toca entao ele é um pouco baixo se a casa for grande dependendo de qual comodo estiver nao da pra ouvir,right
+791758,pro,Ótimo custo benefício,right
+791758,pro,O toque nao é muito alto,wrong_polarity
+791758,pro,Entrega rápida,right
+791758,pro,Gostei muito do produto,right
+791758,pro,Muito bom,right
+791758,pro,Atendeu minhas expectativas,right
+791758,pro,Considerando custo/benefício,no_opinion
+852388,con,Nao recomendo,right
+852388,con,Muito satisfeita,wrong_polarity
+852388,con,Uma pena,right
+852388,con,Nao vale a pena,right
+852388,con,Demora a abrir os aplicativos,right
+852388,con,Já está travando,right
+852388,con,De longe o rosto das pessoas ficam deformado ainda nao sei poque estou aguardando a resposta do sait,right
+852388,con,Estou tentando encontrar o endereço da assistência técnica pra ver isso,no_opinion
+852388,pro,Muito bom,right
+852388,pro,Entrega super rápida,right
+852388,pro,Excelente produto,right
+852388,pro,Otimo custo benefício,right
+852388,pro,Superou minhas expectativas,right
+883773,con,O produto veio com defeito,right
+883773,con,O custo benefício,no_opinion
+883773,con,Nao tem rádio,right
+883773,con,Pura mentira,right
+883773,con,No primeiro dia quebrou o conector de carregar tudo bem que coloquei pra carregar em cimado armário dai caiu do mesmo com o conector conectado,right
+883773,con,Não consigo fazer a troca ele não liga affs,right
+883773,con,Quebrou a entrada do conector usei duas hr apenas,right
+883773,con,Foi enviado veio com defeito,right
+883773,pro,Muito bom,right
+883773,pro,O som é bem alto,right
+883773,pro,Bem alto,right
+883773,pro,Entrega rápida,right
+883773,pro,Produto é bom,right
+883773,pro,Um bom custo benefício,right
+883773,pro,Ótimo som,right
+883940,con,Não recomendo,right
+883940,con,Muito frágil,right
+883940,con,Nao gostei do produto,right
+883940,con,O pior,no_opinion
+883940,con,Eu realmente nao gostei foi o empurrador ele é terrivel o cabo é muito fino é como se nao encaixasse direito,right
+883940,con,Quando tentamos empurrar fica meio mole,right
+883940,con,A cor viria igual a da foto mais isso ñ confere,right
+883940,con,Que nao sei como resolver esse problema pois nao tenho contato do fabricante que prejuizo,right
+883940,pro,Lindo o produto,right
+883940,pro,Meu filhinho [nome] aproveitou bastante,right
+883940,pro,Gostei do produto,right
+883940,pro,Adoramos o produto,right
+883940,pro,Melhor um dia antes do prazer surper indico vcs estão de parabéns nota 1000,right
+883940,pro,O produto eh ótimo amei veio antes do prazo,right
+883940,pro,O prazo de entrega foi bem agil,right
+1023808,con,Produto de péssima qualidade,right
+1023808,con,Se fala,no_opinion
+1023808,con,Material ruim,right
+1023808,con,O produto é muito frágil,right
+1023808,con,Costura interna com remendos wue parecem ser feitos por cima de um tecido semelhante a TNT,right
+1023808,con,Entretando este veio com um remendo na parte interna que ocupa quase toda extensão lateral do mesmo,right
+1023808,con,Um produto que não serve pra nada,right
+1023808,pro,Produto de ótima qualidade,right
+1023808,pro,Ótimo custo benefício,right
+1023808,pro,Entrega rápida,right
+1023808,pro,Chegou antes do prazo,right
+1449842,con,Nao recomendo,right
+1449842,con,O pior,no_opinion
+1449842,con,É ruim,right
+1449842,con,3 velocidades,no_opinion
+1449842,con,Eu nao recomento esse produto muito ruim de ma qualidade com poucas semanas o banco deu defeito,right
+1449842,con,Nao para mais quando anda estrala inteira péssimo produto eu nao sei como uma marca tao famosa deixa cair tanto a sua qualidade,right
+1449842,con,As marchas nao funcionarao adequadamente sem uma regulagem feita numa bicicletaria,right
+1449842,con,Engrenagem fraca sugiro trocar por outra marca,right
+1449842,pro,Produto muito bom,right
+1449842,pro,Otimo produto,right
+1449842,pro,Entrega rápida,right
+1449842,pro,Muito boa,right
+1460060,con,Bem embalado,wrong_polarity
+1460060,con,Muito fina,right
+1460060,con,Entregue antes,wrong_polarity
+1460060,con,Veio em boa qualidade,wrong_polarity
+1460060,con,Infelizmente o meu veio com uma das alças quebradas,right
+1460060,con,Veio com um acabamento de solda horrível,right
+1460060,con,Já entrei em contato com a fábrica,no_opinion
+1460060,con,Aconteceu algo inaceitável,right
+1460060,pro,Otimo produto,right
+1460060,pro,Eu recomendo,right
+1460060,pro,Excelente produto,right
+1460060,pro,Gostei muito,right
+1460060,pro,Atendeu minha necessidade,right
+1460060,pro,Fácil de transportar,right
+1465492,con,Muito boa,wrong_polarity
+1465492,con,Entrega muito rápida,wrong_polarity
+1465492,con,Muito lindo,wrong_polarity
+1465492,con,Nao vale a pena,right
+1465492,con,A pintura pode sair junto isso aconteceu na minha e estar na assistência desde 02/03 para ver se samsung ira autorizar o concerto um absurdo um acabamento tao ruim num produto tao bom,right
+1465492,con,Quando entrei em contato com a sansung ela concordou com a autorizada,no_opinion
+1465492,con,Me informou que teria de levar para autorizada para avaliar,no_opinion
+1465492,con,Liguei na assistência técnica da Samsung,no_opinion
+1465492,pro,Excelente produto,right
+1465492,pro,Imagem perfeita,right
+1465492,pro,Otimo produto,right
+1465492,pro,Entrega super rápida,right
+1465492,pro,Muito bom,right
+1476512,con,Muito fino,right
+1476512,con,Nao gostei,right
+1476512,con,Produto de péssima qualidade,right
+1476512,con,Muito ruim mesmo,right
+1476512,con,Nao gostei ele é baixo fino nao recomendo ele nem parece que é um travesseiro,right
+1476512,con,Travesseiro altura 8 cm não corresponde a descrição do produto,right
+1476512,con,Chegou amassado ao meio porq veio com durex,right
+1476512,con,Pensei ate em devolve-los,right
+1476512,pro,Travesseiro muito bom,right
+1476512,pro,Entrega rápida,right
+1476512,pro,Produto muito bom,right
+1476512,pro,Super recomendo,right
+1476512,pro,O produto é muito bom,right
+1476512,pro,Gostei muito dos meus travesseros sao firmes nao afunda tudo de bom eu indico comprem,right
+1477645,con,Muito simples,right
+1477645,con,Existem produtos melhores,right
+1477645,con,O valor pago,no_opinion
+1477645,con,Um hd,no_opinion
+1477645,con,Para piorar não tem assistência técnica na baixada santista,right
+1477645,con,Tive um pequeno problema que me rendeu gastos se soubesse não teria comprado,right
+1477645,con,Boa noite o produto feio com defeito estou esperando a troca do produto,right
+1477645,con,A mb nao servem pra nada o pc é extremamente lento,right
+1477645,pro,Produto bom,right
+1477645,pro,Entrega dentro do prazo,right
+1477645,pro,Tudo perfeito,right
+1477645,pro,Sim um presente,no_opinion
+1477645,pro,Estou me sentindo muito satisfeita com produto adquirido atendeu todas as minhas necessidades,right
+1477645,pro,Um ótimo desempenho.obrigada comprebel,right
+1477645,pro,O equipamento apesar de ser mais simples atende às necessidades básicas requeridas,right
+1546836,con,Pelo preço,no_opinion
+1546836,con,Uma porcaria,right
+1546836,con,Estou decepcionada,right
+1546836,con,Nao recomendaria,right
+1546836,con,O pneu dianteiro veio com um defeito defeito de fabricaçao após levado a uma uma bicicletaria melhor da cidade o funcionário detectou uma má formaçao no pneu com defeito de fábrica assim parecendo que o que o aro está desalinhado,right
+1546836,con,No primeiro pedal a catraca começou estralar mesmo realizando a montagem em oficina especializada a mesma constatou que a peça veio com as esferas danificadas,right
+1546836,con,Com menos de um mês de uso já deu defeito em duas peças,right
+1546836,con,Solicitei devoluçao,right
+1546836,pro,Muito bom,right
+1546836,pro,Otimo produto,right
+1546836,pro,Otimo custo benefício,right
+1546836,pro,Muito boa,right
+1546836,pro,Ótimo custo benefício,right
+2123722,con,Muito lento,right
+2123722,con,Trava demais,right
+2123722,con,Nao compraria de novo,right
+2123722,con,Nao recomendo a ninguem,right
+2123722,con,Com cerca de uma semana tive que enviar o computador para sao paulo para assistencia técnica já que nao existe rede de assistencia autorizada,right
+2123722,con,Se eu tivesse lido os comentários nao teria comprado essa porcaria,right
+2123722,con,Sem contar a porcaria que é o win8 que vive apresentando erros,right
+2123722,con,Membrana de touch nao sei como se chama já veio descolando em um dos cantos,right
+2123722,pro,Muito bom,right
+2123722,pro,Notebook muito bom,right
+2123722,pro,Produto muito bom,right
+2123722,pro,Recomendo a todos,right
+2123722,pro,Atende às minhas necessidades,right
+2638803,con,O produto é ótimo,wrong_polarity
+2638803,con,Fora isso,no_opinion
+2638803,con,Muito ruim,right
+2638803,con,Em resumo,no_opinion
+2638803,con,Menos tres meses nao acessa mais falou para copiar o novo dwollond no pen drave mais naop adiantou nada estou sem poder navegar na internet,right
+2638803,con,O produto ja apresentou 2 falhas intermitentes precisou ser desligado para voltar a funcionar,right
+2638803,con,Por problemas de defeito de projeto da samsung tv 40 lcd que após a garantia os capacitores da fonte se rompem,right
+2638803,con,Fica travado no mesmo canal independente de se efetuar troca o que nao é nada agradavel,right
+2638803,pro,Produto muito bom,right
+2638803,pro,Excelente qualidade de imagem,right
+2638803,pro,Acesso a internet,no_opinion
+2638803,pro,Quanto a facilidade de uso,no_opinion
+2638803,pro,O produto é muito bom,right
+2638803,pro,Bom produto,right
+2638803,pro,Bons recursos,right
+2638803,pro,A qualidade de imagem é excelente,right
+2641157,con,Nao recomendo,right
+2641157,con,Nao gostei,right
+2641157,con,Péssimo produto,right
+2641157,con,Solta muito fiapo,right
+2641157,pro,Enxuga muito bem,right
+2641157,pro,AS toalhas sao grandes,right
+2641157,pro,Nao soltam felpas,right
+2641157,pro,Vou comprar mais,right
+2641157,pro,Muito bonito,right
+2641157,pro,As toalhas sao lindas,right
+2641157,pro,São maravilhosas,right
+2641467,con,Mateial ruim,right
+2641467,con,Pintura malfeita,right
+2641467,con,Muito fraca não comprem se quiser compra a minha que vendo mais batao,right
+2641467,con,A entrega foi muito rápida,wrong_polarity
+2641467,con,Somente os pedais um pouco fracos,right
+2641467,con,Estou tentando entrar em contato com a oceano bike conforme a orientaçao contida no manual da bicicleta,no_opinion
+2641467,pro,Produto muito bom,right
+2641467,pro,Muito boa,right
+2641467,pro,Recomendo o produto,right
+2641467,pro,O material é de boa qualidade,right
+2641467,pro,Meus filhos adoraram,right
+2641467,pro,Satisfeitissima como sempre,right
+2641467,pro,Entrega sempre no prazo,right
+2641467,pro,Meu filho adorou o presente,right
+2649076,con,No mais,no_opinion
+2649076,con,Tudo ótimo,wrong_polarity
+2649076,con,Parou de funcionar,right
+2649076,con,Fiquei muito triste,right
+2649076,con,Até onde o sinal é fraco,wrong_polarity
+2649076,con,Nao tem muito grave,right
+2649076,con,Troca de canal rápido,wrong_polarity
+2649076,con,Os parafusos indicados m8 nao entra na rosca creio que seja defeito da rosca,right
+2649076,pro,Otimo produto,right
+2649076,pro,Excelente produto,right
+2649076,pro,Entrega super rápida,right
+2649076,pro,Otima TV,right
+2649076,pro,Excelente TV,right
+2649076,pro,Recomendo a todos,right
+2652735,con,Outra coisa,no_opinion
+2652735,con,Propaganda enganosa,right
+2652735,con,Totalmente insatisfeito com o produto,right
+2652735,con,Do banco,no_opinion
+2652735,con,O mais frustrante foi não poder dar esse presente no dia do Natal para minha filha,right
+2652735,con,Além disso os suportes das rodinhas vieram totalmente tortos,right
+2652735,con,Disseram que a foto é meramente ilustrativa,right
+2652735,con,Fazendo com que o pneu traseiro ficasse aproximadamente dois centímetros do chão,right
+2652735,pro,Bom produto,right
+2652735,pro,Minha filha amou,right
+2652735,pro,Excelente produto,right
+2652735,pro,Entrega rápida,right
+2652735,pro,Muito bom minha filha adorou,right
+2652735,pro,Minha família adorou,right
+2661596,con,Nao recomendo,right
+2661596,con,Péssimo produto,right
+2661596,con,Veio tudo certinho,wrong_polarity
+2661596,con,Péssima compra,right
+2661596,con,Já sabia que nao era um excelente produto por ser 100 % poliéster,right
+2661596,con,Porém quando abri a embalagem constatei que o produto real nao tem nada a ver com a foto,right
+2661596,con,Nunca compre um produto tao ruim na loja,right
+2661596,pro,Muito bom,right
+2661596,pro,Gostei muito,right
+2661596,pro,Entao nao tenho o que reclamar,right
+2661596,pro,Já sabia que não era um excelente produto por ser 100 % poliéster,no_opinion
+2661596,pro,Gostei muito ficou ótimo na minha cama o preço tbm tava ótimo quero mais,right
+2661596,pro,Gostei muito o preço esta bem em conta Eu recomendo,right
+2678676,con,Tentei devolver,right
+2678676,con,Nao gostei,right
+2678676,con,Péssima qualidade,right
+2678676,con,Nao indico,right
+2678676,con,Material péssimo,right
+2678676,con,Horrível fiz a decoraçao material de péssima qualidade,right
+2678676,pro,O produto é de boa qualidade,right
+2678676,pro,Excelente produto,right
+2678676,pro,Produto bom,right
+2678676,pro,Gostei do produto,right
+2678676,pro,Muito boa ótima qualidade preço pontualidade seriedade,right
+2678676,pro,Qualidade do produto superou as espectativas,right
+2678676,pro,Bom custo benefício,right
+2678676,pro,Maravilhosa minha bota eu amei,right
+2687489,con,É espaçoso,wrong_polarity
+2687489,con,O custo benefício nao valeu a pena,right
+2687489,con,Acho que poderia ter mais pratilheira,right
+2687489,con,Como se houvesse molhado,no_opinion
+2687489,con,Material muito fraco portas vieram sem furaçao em algumas puxadores ruins,right
+2687489,con,Qdo a gaveta caii no chao já quebrou um dos encaixes,right
+2687489,con,Nao cabe meus cabides horrível,right
+2687489,con,O teto que é branco internamente veio com manchas escuras cinzentas,right
+2687489,pro,Entrega super rápida,right
+2687489,pro,Muito bom,right
+2687489,pro,Produto de ótima qualidade,right
+2687489,pro,Entrega rápida,right
+2694501,con,Nao recomendo,right
+2694501,con,Produto de baixa qualidade,right
+2694501,con,Sempre compro na loja,no_opinion
+2694501,con,Muito decepcionada,right
+2694501,con,Nao quis acionar a devoluçao por perceber que só foi em uma peça mesmo,no_opinion
+2694501,con,Produto é de muita baixa qualidade Manual de montagem é totalmente sem sentido já veio com varias arranhoes,right
+2694501,con,Em um mês já apresentou várias rachaduras na estrutura,right
+2694501,con,Nao vale a pena,right
+2694501,pro,Super recomendo,right
+2694501,pro,Ótimo custo benefício,right
+2694501,pro,Fácil montagem,right
+2694501,pro,Produto de boa qualidade,right
+2694501,pro,Chegou antes do prazo,right
+2695517,con,Comprei o produto,no_opinion
+2695517,con,Solicitei a troca,right
+2695517,con,Para minha surpresa,no_opinion
+2695517,con,Ótima bateria,wrong_polarity
+2695517,con,Espero que nao seja nada demais NAO TO AFIM DE ACIONAR GARANTIA,right
+2695517,con,Toda vez que reinicia aparece o seu logo,no_opinion
+2695517,con,Ao formatar simplesmente formatar ele travava logo de cara na conexao de wifi para configuraçao a mesma citada acima,right
+2695517,con,Nas ligaçoes a outra parte nao consegue me ouvir,right
+2695517,pro,Muito bom,right
+2695517,pro,Produto muito bom,right
+2695517,pro,Otimo produto,right
+2695517,pro,Excelente aparelho,right
+2695634,con,Parou de funcionar,right
+2695634,con,Nao uso todos os dias,no_opinion
+2695634,con,Ele deu um estouro,right
+2695634,con,Agora porem,no_opinion
+2695634,con,Nao consegui testar ainda poiso pino da tomada do secador nao encaixa em nenhuma dos 5 tipos de tomadas que tenho em casa,right
+2695634,con,Ele tenha um pequeno defeito de quando se coloca na velocidade baixa,right
+2695634,con,Veio com defeito a troca foi imediata,right
+2695634,pro,Entrega rápida,right
+2695634,pro,Muito bom,right
+2695634,pro,Produto de ótima qualidade,right
+2695634,pro,Produto atendeu as expectativas,right
+2695634,pro,Superou a expectativa,right
+2739797,con,Devolvi o produto,right
+2739797,con,Nao comprem,right
+2739797,con,Até agora nada,right
+2739797,con,Produto com defeito,right
+2739797,con,Sem selo da anatel,right
+2739797,con,Produto veio com defeito com 86 % de carga mesmo assim nao ligava só ligava com carregador conectado,right
+2739797,con,Ele demorar mais de 30 pra voltar pra transportadora pra eu abrir protocolo de devoluçao,right
+2739797,pro,Superou minhas expectativas,right
+2739797,pro,Bom preço,right
+2739797,pro,Muito bom,right
+2739797,pro,Super recomendo,right
+2739797,pro,Leve muito bonito eu recomendaria supriu minhas expectativas,right
+2739797,pro,Recomendo a todos vale a pena,right
+2743439,con,Nao recomendo,right
+2743439,con,Nao gostei,right
+2743439,con,Antes da data prevista,wrong_polarity
+2743439,con,Muito triste,right
+2743439,con,Começar o processo de assistência técnica,no_opinion
+2743439,con,Porém veio cheio de defeito,right
+2743439,con,Veio com defeito,right
+2743439,pro,Super recomendo,right
+2743439,pro,Gostei muito,right
+2743439,pro,Eu recomendo,right
+2743439,pro,Produto de ótima qualidade,right
+2743439,pro,Fácil manuseio,right
+2743439,pro,Antes da data prevista,right
+18532995,con,Nao comprem,right
+18532995,con,Vou comprar outra,no_opinion
+18532995,con,A garantia,no_opinion
+18532995,con,Zona sul,no_opinion
+18532995,con,Desliga sozinho,wrong_polarity
+18532995,con,Comprei essa ultima pra levar comigo para qqer lugar que eu vá,no_opinion
+18532995,con,Resumindo foi dinheiro jogado fora,right
+18532995,con,Não vale a pena arrumar,right
+18532995,pro,Muito prático,right
+18532995,pro,Produto excelente,right
+18532995,pro,Otimo custo benefício,right
+18532995,pro,Desliga sozinho,right
+18532995,pro,Muito pratico,right
+18532995,pro,Ótimo produto,right
