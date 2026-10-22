@@ -49,6 +49,24 @@ Tudo isso está publicado na base [reviews-produtos-ptbr](https://github.com/Cai
 | Agrupamento | qualquer uma de seis chaves; o fingerprint juntava "ótima qualidade" e "péssima qualidade" | as mesmas palavras, ignorando acentos, plurais e stopwords; negações mantidas |
 | Ordem | número de cláusulas; no empate, a frase mais comum no site | reviews distintos e, no empate, a força da opinião |
 
+## Como funciona
+
+```mermaid
+flowchart LR
+  R["Reviews<br/>de um produto"] --> C["Corta em cláusulas<br/>pontuação + conjunções"]
+  C --> F{"Tem opinião?"}
+  F -.->|"enchimento ou sem<br/>palavra de opinião"| X["descartada"]:::dead
+  F -->|"sim"| P["Polaridade da cláusula<br/>léxico + negação"]
+  P --> G["Agrupa cláusulas<br/>mesmas palavras sem acento,<br/>plural e stopwords"]
+  G --> K["Ordena<br/>reviews distintos,<br/>depois intensidade"]
+  K --> O["4 prós<br/>4 contras"]
+  D[("2,87 mi de reviews<br/>11,7 mi de cláusulas")] -.->|"palavras em reviews<br/>de 4-5 vs 1-2 estrelas"| L["Léxico<br/>6.854 palavras, log-odds"]
+  L -.-> P
+  classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;
+```
+
+O léxico é aprendido uma vez, a partir da [base de reviews](https://github.com/CaiqueDourado/reviews-produtos-ptbr), e vem junto com o pacote (`data/lexicon.tsv`). Como cada etapa foi escolhida: [divisão em cláusulas](docs/artigo-divisao-de-clausulas.md) e [prós e contras](docs/artigo-pros-e-contras.md).
+
 ## Resultados
 
 A avaliação usa os 51 produtos que ficaram fora do treino do léxico. Para cada um, compara os prós e contras de 2020 (como foram publicados) com os da biblioteca, calculados sobre as mesmas cláusulas de 2020. Cada cláusula listada foi rotulada como *certa*, *lado errado* ou *sem opinião* ([rótulos](evaluation/gold_labels.csv)).

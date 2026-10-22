@@ -47,6 +47,24 @@ All of it is published in the [reviews-produtos-ptbr](https://github.com/CaiqueD
 | Grouping | any of six keys; the fingerprint joined "ótima qualidade" with "péssima qualidade" | same words after accents, plurals and stopwords; negations kept |
 | Ranking | clause count, ties broken toward the most common phrase on the site | distinct reviews, then strength of the opinion |
 
+## How it works
+
+```mermaid
+flowchart LR
+  R["Reviews<br/>of one product"] --> C["Cut into clauses<br/>punctuation + conjunctions"]
+  C --> F{"Opinion?"}
+  F -.->|"filler or no<br/>opinion word"| X["dropped"]:::dead
+  F -->|"yes"| P["Polarity of the clause<br/>lexicon + negation"]
+  P --> G["Group clauses<br/>same words without accents,<br/>plurals and stopwords"]
+  G --> K["Rank<br/>distinct reviews,<br/>then strength"]
+  K --> O["Top 4 pros<br/>Top 4 cons"]
+  D[("2.87M reviews<br/>11.7M clauses")] -.->|"words in 4-5 star<br/>vs 1-2 star reviews"| L["Lexicon<br/>6,854 words, log-odds"]
+  L -.-> P
+  classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;
+```
+
+The lexicon is learned once, from the [reviews dataset](https://github.com/CaiqueDourado/reviews-produtos-ptbr), and ships with the package (`data/lexicon.tsv`). How each step was chosen: [clause splitting](docs/article-clause-splitting.md) and [pros and cons](docs/article-pros-and-cons.md).
+
 ## Results
 
 The 51 products held out of the lexicon training, with their 2020 pros and cons as published and the library's, both on the same 2020 clauses. Every listed clause was labelled *right*, *wrong side* or *no opinion* ([labels](evaluation/gold_labels.csv)).
