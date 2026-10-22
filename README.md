@@ -6,6 +6,8 @@
 
 [Leia em português](README.pt-BR.md)
 
+![Reviews in, pros and cons out](docs/img/cover.png)
+
 Top **pros and cons** of a product from its reviews in Brazilian Portuguese. No API, no model download. It cuts each review into clauses, scores each clause with a lexicon learned from 11.7 million clauses of real reviews, groups clauses that say the same thing, and lists the most repeated ones.
 
 ```python

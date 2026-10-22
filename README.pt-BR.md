@@ -6,6 +6,8 @@
 
 [Read in English](README.md)
 
+![Reviews entram, prós e contras saem](docs/img/cover.pt-BR.png)
+
 Os principais **prós e contras** de um produto a partir dos reviews em português. Funciona sem API e sem baixar modelo.
 
 A biblioteca corta cada review em cláusulas e dá uma nota a cada cláusula com um léxico aprendido em 11,7 milhões de cláusulas de reviews reais. Depois junta as cláusulas que dizem a mesma coisa e lista as mais repetidas.
