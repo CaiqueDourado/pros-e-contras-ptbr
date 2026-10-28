@@ -4,7 +4,7 @@ Reference: the clauses of `sentences_sample.csv`, in order, per review. Only rev
 changed by the ã/õ restoration are used, because the 2020 clauses were cut from the collected text.
 Clauses are compared after accent folding and lower case (2020 stored them in sentence case).
 
-    python evaluation/splitter_agreement.py ../reviews-produtos-ptbr/sample [--spacy]
+    python evaluation/splitter_agreement.py ../portuguese-product-reviews/sample [--spacy]
 
 With --spacy the cuts come from spaCy's pt_core_news_sm tags instead of the rule.
 """

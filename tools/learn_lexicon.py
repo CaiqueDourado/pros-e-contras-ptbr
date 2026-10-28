@@ -1,4 +1,4 @@
-"""Learn src/pros_e_contras/data/lexicon.tsv from the clauses of reviews-produtos-ptbr.
+"""Learn src/pros_e_contras/data/lexicon.tsv from the clauses of portuguese-product-reviews.
 
 A clause of a 4-5 star review counts as positive evidence, of a 1-2 star review as negative; 3 stars
 are left out. Stars, not the AWS label, because stars are the customer's own judgement. For every
@@ -9,8 +9,8 @@ products in evaluation/eval_groups.txt are excluded, so the evaluation never see
 Two stages, because counting the full dataset (12.9M clauses) takes a while and the weighting is quick:
 
     # count: the sample in the dataset repository, or the full Parquet files from Kaggle (needs duckdb)
-    python tools/learn_lexicon.py count --sample ../reviews-produtos-ptbr/sample --out counts.tsv
-    python tools/learn_lexicon.py count --parquet D:/kaggle/reviews-produtos-ptbr --out counts.tsv
+    python tools/learn_lexicon.py count --sample ../portuguese-product-reviews/sample --out counts.tsv
+    python tools/learn_lexicon.py count --parquet D:/kaggle/portuguese-product-reviews --out counts.tsv
     # weigh
     python tools/learn_lexicon.py weigh counts.tsv   # tools/word_counts.tsv holds the counts of the full dataset
 """
@@ -91,7 +91,7 @@ def weigh(a):
     rows.sort(key=lambda r: -r[1])
     head = [
         "# feature\tweight\tclauses_4_5_stars\tclauses_1_2_stars",
-        f"# reviews-produtos-ptbr: {n_clauses[0]:,} clauses of 4-5 star and {n_clauses[1]:,} of 1-2 star reviews, "
+        f"# portuguese-product-reviews: {n_clauses[0]:,} clauses of 4-5 star and {n_clauses[1]:,} of 1-2 star reviews, "
         f"evaluation products excluded; z >= {a.z}, |weight| >= {a.min_weight}, min count {a.min_count}",
     ]
     Path(a.out).write_text("\n".join(head + ["\t".join(map(str, r)) for r in rows]) + "\n", encoding="utf-8")

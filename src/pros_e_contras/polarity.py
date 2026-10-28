@@ -1,7 +1,7 @@
 """Polarity of one clause, from a lexicon learned on the reviews themselves.
 
 The lexicon (data/lexicon.tsv) was learned by tools/learn_lexicon.py from the clauses of the
-reviews-produtos-ptbr dataset: a word's weight is how much more often it appears in clauses of
+portuguese-product-reviews dataset: a word's weight is how much more often it appears in clauses of
 4-5 star reviews than in clauses of 1-2 star reviews (smoothed log-odds, classes balanced). Words
 after a negation ("não", "nunca", "nem", "sem") are learned and scored as separate features
 ("NOT_funciona"), so "não funciona" is negative even though "funciona" is positive.

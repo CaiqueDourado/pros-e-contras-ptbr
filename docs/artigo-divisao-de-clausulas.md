@@ -23,7 +23,7 @@ O problema era o preço: a cobrança é por texto analisado, e eram milhões de 
 
 ## 2. Stanford POS Tagger (2020)
 
-O substituto foi o MaxentTagger da Stanford, rodando dentro do .NET, com um modelo de português feito por terceiros (`corenlp-model-pt`). Ele é de graça e roda local. Foi ele que cortou os 12,9 milhões de cláusulas publicados na [base de reviews](https://github.com/CaiqueDourado/reviews-produtos-ptbr).
+O substituto foi o MaxentTagger da Stanford, rodando dentro do .NET, com um modelo de português feito por terceiros (`corenlp-model-pt`). Ele é de graça e roda local. Foi ele que cortou os 12,9 milhões de cláusulas publicados na [base de reviews](https://github.com/CaiqueDourado/portuguese-product-reviews).
 
 O preço passou a ser outro: os erros do modelo. Ele erra palavras com maiúscula e linguagem coloquial:
 
@@ -97,4 +97,4 @@ Para esta tarefa, cortar opiniões em reviews, o etiquetador não pagava o que c
 
 Cortar bem é só metade do caminho. A outra metade, decidir se cada cláusula é pró ou contra, está no [artigo sobre prós e contras](artigo-pros-e-contras.md).
 
-*Código e avaliação: [evaluation/splitter_agreement.py](../evaluation/splitter_agreement.py). Dados: [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).*
+*Código e avaliação: [evaluation/splitter_agreement.py](../evaluation/splitter_agreement.py). Dados: [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).*

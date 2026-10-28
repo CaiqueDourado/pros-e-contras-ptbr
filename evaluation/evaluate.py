@@ -11,7 +11,7 @@ The labels were written by Claude (Anthropic's model) reading each clause and th
 polarity, grouping and ranking, not the cut. Clauses missing a label are written to
 results/unlabelled.csv.
 
-    python evaluation/evaluate.py ../reviews-produtos-ptbr/sample
+    python evaluation/evaluate.py ../portuguese-product-reviews/sample
 """
 
 import json

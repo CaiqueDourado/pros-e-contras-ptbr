@@ -36,7 +36,7 @@ In 2020 the author's review sites showed the 4 pros and 4 cons of each product, 
 4. **Group and count** clauses that share a phonetic or fingerprint key.
 5. **Show the top 4** clauses of the positive reviews as pros and of the negative reviews as cons.
 
-All of it is published in the [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr) dataset. The data quality report lists what went wrong. The library keeps the method, available as `mode="2020"`, and changes the parts that failed:
+All of it is published in the [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews) dataset. The data quality report lists what went wrong. The library keeps the method, available as `mode="2020"`, and changes the parts that failed:
 
 | | 2020 | this library (`mode="clause"`, default) |
 |---|---|---|
@@ -63,7 +63,7 @@ flowchart LR
   classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;
 ```
 
-The lexicon is learned once, from the [reviews dataset](https://github.com/CaiqueDourado/reviews-produtos-ptbr), and ships with the package (`data/lexicon.tsv`). How each step was chosen: [clause splitting](docs/article-clause-splitting.md) and [pros and cons](docs/article-pros-and-cons.md).
+The lexicon is learned once, from the [reviews dataset](https://github.com/CaiqueDourado/portuguese-product-reviews), and ships with the package (`data/lexicon.tsv`). How each step was chosen: [clause splitting](docs/article-clause-splitting.md) and [pros and cons](docs/article-pros-and-cons.md).
 
 ## Results
 
@@ -132,13 +132,13 @@ The word counts are in [`tools/word_counts.tsv`](tools/word_counts.tsv), so the 
 
 - [Splitting reviews into clauses: Google Cloud NL, Stanford, and 15 lines of rules](docs/article-clause-splitting.md) ([PT](docs/artigo-divisao-de-clausulas.md))
 - [Pros and cons from reviews: what the 2020 method got wrong](docs/article-pros-and-cons.md) ([PT](docs/artigo-pros-e-contras.md))
-- [Case study: É bom? Vale a pena?](https://github.com/CaiqueDourado/reviews-produtos-ptbr/blob/main/docs/case-study-e-bom-vale-a-pena.md), the review site the data was collected for
+- [Case study: É bom? Vale a pena?](https://github.com/CaiqueDourado/portuguese-product-reviews/blob/main/docs/case-study-e-bom-vale-a-pena.md), the review site the data was collected for
 
 ## Related
 
-- [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)): the 2.87 million reviews, the 2020 clauses, and the pros and cons this library is measured against.
+- [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)): the 2.87 million reviews, the 2020 clauses, and the pros and cons this library is measured against.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): the normalisation, plural and matching keys used here.
-- [catalogo-produtos-ecommerce-brasil](https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil): the products the reviews belong to.
+- [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products): the products the reviews belong to.
 
 ## License
 

@@ -23,7 +23,7 @@ The first version sent each review to Google Cloud NL's `AnalyzeSyntax` in Portu
 
 ## 2. Stanford POS tagger (2020)
 
-The replacement was Stanford's MaxentTagger, running inside .NET, with a third-party Portuguese model (`corenlp-model-pt`). It was free and ran locally. It cut the 12.9 million clauses published in the [reviews dataset](https://github.com/CaiqueDourado/reviews-produtos-ptbr).
+The replacement was Stanford's MaxentTagger, running inside .NET, with a third-party Portuguese model (`corenlp-model-pt`). It was free and ran locally. It cut the 12.9 million clauses published in the [reviews dataset](https://github.com/CaiqueDourado/portuguese-product-reviews).
 
 The price became the model's mistakes. It mislabels capitalised and colloquial words:
 
@@ -92,4 +92,4 @@ For this task, cutting opinions out of reviews, the tagger was not worth its cos
 
 Cutting well is half the job. The other half, deciding whether each clause is a pro or a con, is in the [article on pros and cons](article-pros-and-cons.md).
 
-*Code and evaluation: [evaluation/splitter_agreement.py](../evaluation/splitter_agreement.py). Data: [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).*
+*Code and evaluation: [evaluation/splitter_agreement.py](../evaluation/splitter_agreement.py). Data: [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).*

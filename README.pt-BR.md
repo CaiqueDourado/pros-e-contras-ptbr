@@ -38,7 +38,7 @@ Em 2020, os sites de reviews do autor mostravam 4 prós e 4 contras de cada prod
 4. **Agrupar e contar** as cláusulas que têm uma chave fonética ou de fingerprint em comum.
 5. **Mostrar as 4 mais citadas**: as cláusulas dos reviews positivos viram prós, e as dos negativos viram contras.
 
-Tudo isso está publicado na base [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr), e o relatório de qualidade da base lista o que deu errado. A biblioteca mantém o método original como `mode="2020"` e troca as partes que falharam:
+Tudo isso está publicado na base [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews), e o relatório de qualidade da base lista o que deu errado. A biblioteca mantém o método original como `mode="2020"` e troca as partes que falharam:
 
 | | 2020 | esta biblioteca (`mode="clause"`, padrão) |
 |---|---|---|
@@ -65,7 +65,7 @@ flowchart LR
   classDef dead fill:#f3f3f3,stroke:#bbbbbb,color:#777777;
 ```
 
-O léxico é aprendido uma vez, a partir da [base de reviews](https://github.com/CaiqueDourado/reviews-produtos-ptbr), e vem junto com o pacote (`data/lexicon.tsv`). Como cada etapa foi escolhida: [divisão em cláusulas](docs/artigo-divisao-de-clausulas.md) e [prós e contras](docs/artigo-pros-e-contras.md).
+O léxico é aprendido uma vez, a partir da [base de reviews](https://github.com/CaiqueDourado/portuguese-product-reviews), e vem junto com o pacote (`data/lexicon.tsv`). Como cada etapa foi escolhida: [divisão em cláusulas](docs/artigo-divisao-de-clausulas.md) e [prós e contras](docs/artigo-pros-e-contras.md).
 
 ## Resultados
 
@@ -137,13 +137,13 @@ As contagens estão em [`tools/word_counts.tsv`](tools/word_counts.tsv), para re
 
 - [Cortar reviews em cláusulas: Google Cloud NL, Stanford e 15 linhas de regra](docs/artigo-divisao-de-clausulas.md) ([EN](docs/article-clause-splitting.md))
 - [Prós e contras a partir de reviews: o que o método de 2020 errou](docs/artigo-pros-e-contras.md) ([EN](docs/article-pros-and-cons.md))
-- [Estudo de caso: É bom? Vale a pena?](https://github.com/CaiqueDourado/reviews-produtos-ptbr/blob/main/docs/estudo-de-caso-e-bom-vale-a-pena.md), o site para o qual os dados foram coletados
+- [Estudo de caso: É bom? Vale a pena?](https://github.com/CaiqueDourado/portuguese-product-reviews/blob/main/docs/estudo-de-caso-e-bom-vale-a-pena.md), o site para o qual os dados foram coletados
 
 ## Relacionados
 
-- [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)): os 2,87 milhões de reviews, as cláusulas de 2020 e os prós e contras usados como comparação.
+- [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews) ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)): os 2,87 milhões de reviews, as cláusulas de 2020 e os prós e contras usados como comparação.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): a normalização, o singular e as chaves de casamento usados aqui.
-- [catalogo-produtos-ecommerce-brasil](https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil): os produtos a que os reviews pertencem.
+- [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products): os produtos a que os reviews pertencem.
 
 ## Licença
 
