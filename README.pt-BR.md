@@ -138,6 +138,7 @@ As contagens estão em [`tools/word_counts.tsv`](tools/word_counts.tsv), para re
 - [Cortar reviews em cláusulas: Google Cloud NL, Stanford e 15 linhas de regra](docs/artigo-divisao-de-clausulas.md) ([EN](docs/article-clause-splitting.md))
 - [Prós e contras a partir de reviews: o que o método de 2020 errou](docs/artigo-pros-e-contras.md) ([EN](docs/article-pros-and-cons.md))
 - [Estudo de caso: É bom? Vale a pena?](https://github.com/CaiqueDourado/portuguese-product-reviews/blob/main/docs/estudo-de-caso-e-bom-vale-a-pena.md), o site para o qual os dados foram coletados
+- Artigo: [Divisão de sentenças + análise de sentimentos = prós e contras](https://github.com/CaiqueDourado/articles/blob/main/pros-and-cons/README.pt-BR.md): as duas metades do método num artigo só.
 
 ## Relacionados
 

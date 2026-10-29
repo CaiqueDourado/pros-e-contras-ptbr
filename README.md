@@ -133,6 +133,7 @@ The word counts are in [`tools/word_counts.tsv`](tools/word_counts.tsv), so the 
 - [Splitting reviews into clauses: Google Cloud NL, Stanford, and 15 lines of rules](docs/article-clause-splitting.md) ([PT](docs/artigo-divisao-de-clausulas.md))
 - [Pros and cons from reviews: what the 2020 method got wrong](docs/article-pros-and-cons.md) ([PT](docs/artigo-pros-e-contras.md))
 - [Case study: É bom? Vale a pena?](https://github.com/CaiqueDourado/portuguese-product-reviews/blob/main/docs/case-study-e-bom-vale-a-pena.md), the review site the data was collected for
+- Article: [Sentence splitting + sentiment analysis = pros and cons](https://github.com/CaiqueDourado/articles/blob/main/pros-and-cons/README.md): both halves of the method in one article.
 
 ## Related
 
